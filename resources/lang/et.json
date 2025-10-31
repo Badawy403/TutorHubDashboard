@@ -1,0 +1,27 @@
+{
+    "installer_messages": {
+        "title": "Laraveli installer",
+        "next": "J\u00e4rgmine samm",
+        "welcome": {
+            "title": "Tere tulemast Laraveli installerisse",
+            "message": "Tere tulemast installatsiooniviisardisse."
+        },
+        "requirements": {
+            "title": "N\u00f5uded"
+        },
+        "permissions": {
+            "title": "\u00d5igused"
+        },
+        "environment": {
+            "title": "Keskkonna seaded",
+            "save": "Salvesta .env",
+            "success": "Sinu .env faili seaded on salvestatud.",
+            "errors": "Ei saanud .env faili salvesta, palun loo see manuaalselt."
+        },
+        "final": {
+            "title": "L\u00f5petatud",
+            "finished": "Laravel on edukalt installitud",
+            "exit": "V\u00e4ljumiseks vajuta siia"
+        }
+    }
+}

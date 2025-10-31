@@ -1,0 +1,37 @@
+.navbar-light {
+    background-color: white;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    height: 92px;
+    top: 0;
+
+    &.sticky {
+        background-color: #e7f4fc;
+    }
+
+    .navbar-nav {
+        align-items: center;
+    }
+
+    .nav-item {
+        margin-right: 1rem;
+        color: #4B4B4B;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .login-nav{
+        .btn{
+            background-color: white;
+            color: $primary;
+        }
+    }
+}

@@ -1,0 +1,153 @@
+// Variables
+//
+// Variables should follow the `$component-state-property-size` formula for
+// consistent naming. Ex: $nav-link-disabled-color and $modal-content-box-shadow-xs.
+
+
+// Typography
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+$font-family-sans-serif: "Roboto", sans-serif;
+
+:root {
+//   --primary-color: #{66, 181, 225};
+
+--bs-modal-zindex : 1056;
+
+}
+
+$primary: #0A93E2;
+$secondary: #535353;
+$info: #DBDBDB;
+$warning: #E7F3FA;
+
+$custom-blue: #171CAA;
+
+$custom-modal-bg: #F6F7FA;
+$lightsecondary: #2D2D2D;
+
+$min-contrast-ratio: 3;
+
+
+
+$body-bg: #F6F7FA;
+$body-color: #464646;
+
+
+$font-size-base: 1rem; // Assumes the browser default, typically `16px`
+// $font-size-sm:                $font-size-base * .875 !default;
+// $font-size-lg:                $font-size-base * 1.25 !default;
+
+
+$display-font-sizes: (
+  1: 50px,
+  2: 2.0rem,
+  3: 4rem,
+  4: 3.5rem,
+  5: 3rem,
+  6: 2.5rem
+);
+
+
+$display-font-weight: 700;
+
+// scss-docs-start font-sizes
+$font-sizes: (
+  1: 24px,
+  2: 22px,
+  3: 18px,
+  4: 16px,
+  5: 14px,
+  6: 12px
+);
+
+
+$border-radius-sm: 2px;
+$border-radius: 4px;
+$border-radius-lg: 8px;
+$border-radius-xl: 10px;
+$border-radius-2xl: 20px;
+$border-radius-pill: 50rem;
+
+// modal
+
+$modal-xl: 1320px;
+
+
+$badge-font-weight: 500;
+
+$input-btn-padding-y: .675rem;
+$input-btn-focus-width: 0;
+// $input-btn-focus-blur: 4px;
+// $input-btn-border-width: 0;
+
+
+$accordion-icon-width: 30px;
+
+$btn-border-radius:  200px;
+
+$input-bg: #fff;
+$input-border-width: 0;
+$input-border-radius: 4px;
+// $input-box-shadow: 0px 0 2px 0px #00000010;
+$input-focus-box-shadow: 0px 0 2px 0px #0A93E2;
+$input-placeholder-color: #7E7D7D;
+$input-plaintext-color: $body-color;
+
+$card-border-width: 0;
+$card-box-shadow: 0px 4px 25px 2px #0000000D;
+// $card-border-color: var(--#{$prefix}border-color-translucent);
+$card-border-radius: $border-radius-2xl;
+
+
+$nav-tabs-border-color:             $primary;
+$nav-tabs-border-width:             2px solid $primary;
+$nav-tabs-border-radius:            10px;
+
+$nav-tabs-link-active-color:        white;
+$nav-tabs-link-active-bg:           $primary;
+
+
+
+// accordians
+$accordion-icon-color:                    black !default;
+$accordion-icon-active-color:             black !default;
+$accordion-button-icon:         url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$accordion-icon-color}'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !default;
+$accordion-button-active-icon:  url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$accordion-icon-active-color}'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !default;
+// Tables
+$table-striped-bg: #E7F3FA;
+
+
+
+/// calendar theming
+.dp__theme_light {
+  // --dp-background-color: #fff;
+  // --dp-text-color: #212121;
+  // --dp-hover-color: #f3f3f3;
+  // --dp-hover-text-color: #212121;
+  // --dp-hover-icon-color: #959595;
+  // --dp-primary-color: #1976d2;
+  // --dp-primary-disabled-color: #6bacea;
+  // --dp-primary-text-color: #f8f5f5;
+  // --dp-secondary-color: #c0c4cc;
+  --dp-border-color: #fff !important;
+  --dp-menu-border-color: #fff !important;
+  // --dp-border-color-hover: #aaaeb7;
+  // --dp-disabled-color: #f6f6f6;
+  // --dp-scroll-bar-background: #f3f3f3;
+  // --dp-scroll-bar-color: #959595;
+  // --dp-success-color: #76d275;
+  // --dp-success-color-disabled: #a3d9b1;
+  // --dp-icon-color: #959595;
+  // --dp-danger-color: #ff6f60;
+  // --dp-marker-color: #ff6f60;
+  // --dp-tooltip-color: #fafafa;
+  // --dp-disabled-color-text: #8e8e8e;
+  // --dp-highlight-color: rgb(25 118 210 / 10%);
+  // --dp-range-between-dates-background-color: var(--dp-hover-color, #f3f3f3);
+  // --dp-range-between-dates-text-color: var(--dp-hover-text-color, #212121);
+  // --dp-range-between-border-color: var(--dp-hover-color, #f3f3f3);
+}
+
+
+

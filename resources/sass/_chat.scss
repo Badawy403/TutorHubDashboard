@@ -1,0 +1,14 @@
+.chat-ui{
+    background-color: white;
+    border-color: #8f8f8f;
+    border-radius: 8px;
+    li .msg-bubble{
+        padding: 10px;
+        border-radius: 6px;
+        background-color: wheat;
+    }
+    li .float-right.msg-bubble {
+        background-color: #e7e7e7;
+        
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "installer_messages": {
+        "title": "Laravel Installer",
+        "next": "N\u00e4chster Schritt",
+        "finish": "Installieren",
+        "welcome": {
+            "title": "Willkommen zum Installer",
+            "message": "Willkommen zum Laravel Installationsassistent."
+        },
+        "requirements": {
+            "title": "Vorraussetzungen"
+        },
+        "permissions": {
+            "title": "Berechtigungen"
+        },
+        "environment": {
+            "title": "Umgebungsvariablen",
+            "save": "Speichere .env",
+            "success": "Ihre .env Konfiguration wurde gespeichert.",
+            "errors": "Ihre .env Konfiguration konnte nicht gespeichert werden. Bitte erstellen Sie diese manuell."
+        },
+        "final": {
+            "title": "Fertig!",
+            "finished": "Die Anwendung wurde erfolgreich installiert.",
+            "exit": "Hier klicken zum Beenden"
+        }
+    }
+}

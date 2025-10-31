@@ -1,0 +1,135 @@
+{
+    "installer_messages": {
+        "title": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 Laravel",
+        "next": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0448\u0430\u0433",
+        "welcome": {
+            "title": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 Laravel",
+            "message": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0443\u044e \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a\u0430 Laravel.",
+            "next": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0448\u0430\u0433"
+        },
+        "requirements": {
+            "title": "\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u0435 \u043c\u043e\u0434\u0443\u043b\u0438",
+            "next": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0448\u0430\u0433"
+        },
+        "permissions": {
+            "title": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043f\u0440\u0430\u0432 \u043d\u0430 \u043f\u0430\u043f\u043a\u0430\u0445",
+            "next": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0448\u0430\u0433"
+        },
+        "environment": {
+            "menu": {
+                "templateTitle": "\u0428\u0430\u0433 3 | \u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0441\u0440\u0435\u0434\u044b",
+                "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0441\u0440\u0435\u0434\u044b",
+                "desc": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435, \u043a\u0430\u043a \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0444\u0430\u0439\u043b <code> .env <\/code>.",
+                "wizard-button": "\u041c\u0430\u0441\u0442\u0435\u0440\u0430 \u0444\u043e\u0440\u043c",
+                "classic-button": "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u0442\u0435\u043a\u0441\u0442\u0430"
+            },
+            "wizard": {
+                "templateTitle": "\u0428\u0430\u0433 3 | \u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0441\u0440\u0435\u0434\u044b | \u0423\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u044b\u0439 \u043c\u0430\u0441\u0442\u0435\u0440",
+                "title": "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u044b\u0439 <code> .env <\/code> \u041c\u0430\u0441\u0442\u0435\u0440",
+                "tabs": {
+                    "environment": "\u041e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435",
+                    "database": "\u0411\u0430\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "application": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435"
+                },
+                "form": {
+                    "name_required": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0438\u043c\u044f \u0441\u0440\u0435\u0434\u044b.",
+                    "app_name_label": "\u0418\u043c\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+                    "app_name_placeholder": "\u0418\u043c\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+                    "app_environment_label": "\u041e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+                    "app_environment_label_local": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0435",
+                    "app_environment_label_developement": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043e\u0447\u043d\u043e\u0435",
+                    "app_environment_label_qa": "Qa",
+                    "app_environment_label_production": "\u041f\u0440\u043e\u0434\u0430\u043a\u0448\u043d",
+                    "app_environment_label_other": "\u0414\u0440\u0443\u0433\u043e\u0435",
+                    "app_environment_placeholder_other": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0435 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435 ...",
+                    "app_debug_label": "\u0414\u0435\u0431\u0430\u0433 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+                    "app_debug_label_true": "\u0414\u0430",
+                    "app_debug_label_false": "\u041d\u0435\u0442",
+                    "app_log_level_label": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+                    "app_log_level_label_debug": "debug",
+                    "app_log_level_label_info": "info",
+                    "app_log_level_label_notice": "notice",
+                    "app_log_level_label_warning": "warning",
+                    "app_log_level_label_error": "error",
+                    "app_log_level_label_critical": "critical",
+                    "app_log_level_label_alert": "alert",
+                    "app_log_level_label_emergency": "emergency",
+                    "app_url_label": "URL \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+                    "app_url_placeholder": "URL \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+                    "db_connection_label": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0431\u0430\u0437\u0435 \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_connection_label_mysql": "mysql",
+                    "db_connection_label_sqlite": "sqlite",
+                    "db_connection_label_pgsql": "pgsql",
+                    "db_connection_label_sqlsrv": "sqlsrv",
+                    "db_host_label": "\u0425\u043e\u0441\u0442 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_host_placeholder": "\u0425\u043e\u0441\u0442 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_port_label": "\u041f\u043e\u0440\u0442 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_port_placeholder": "\u041f\u043e\u0440\u0442 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_name_label": "\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_name_placeholder": "\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_username_label": "\u0418\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_username_placeholder": "\u0418\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_password_label": "\u041f\u0430\u0440\u043e\u043b\u044c \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "db_password_placeholder": "\u041f\u0430\u0440\u043e\u043b\u044c \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                    "app_tabs": {
+                        "more_info": "\u0411\u043e\u043b\u044c\u0448\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438",
+                        "broadcasting_title": "Broadcasting, Caching, Session, &amp; Queue",
+                        "broadcasting_label": "Broadcast Driver",
+                        "broadcasting_placeholder": "Broadcast Driver",
+                        "cache_label": "Cache Driver",
+                        "cache_placeholder": "Cache Driver",
+                        "session_label": "Session Driver",
+                        "session_placeholder": "Session Driver",
+                        "queue_label": "Queue Driver",
+                        "queue_placeholder": "Queue Driver",
+                        "redis_label": "Redis Driver",
+                        "redis_host": "Redis Host",
+                        "redis_password": "Redis Password",
+                        "redis_port": "Redis Port",
+                        "mail_label": "Mail",
+                        "mail_driver_label": "Mail Driver",
+                        "mail_driver_placeholder": "Mail Driver",
+                        "mail_host_label": "Mail Host",
+                        "mail_host_placeholder": "Mail Host",
+                        "mail_port_label": "Mail Port",
+                        "mail_port_placeholder": "Mail Port",
+                        "mail_username_label": "Mail Username",
+                        "mail_username_placeholder": "Mail Username",
+                        "mail_password_label": "Mail Password",
+                        "mail_password_placeholder": "Mail Password",
+                        "mail_encryption_label": "Mail Encryption",
+                        "mail_encryption_placeholder": "Mail Encryption",
+                        "pusher_label": "Pusher",
+                        "pusher_app_id_label": "Pusher App Id",
+                        "pusher_app_id_palceholder": "Pusher App Id",
+                        "pusher_app_key_label": "Pusher App Key",
+                        "pusher_app_key_palceholder": "Pusher App Key",
+                        "pusher_app_secret_label": "Pusher App Secret",
+                        "pusher_app_secret_palceholder": "Pusher App Secret"
+                    },
+                    "buttons": {
+                        "setup_database": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+                        "setup_application": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+                        "install": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c"
+                    }
+                }
+            },
+            "classic": {
+                "templateTitle": "\u0428\u0430\u0433 3 | \u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0441\u0440\u0435\u0434\u044b | \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440",
+                "title": "\u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u0441\u0440\u0435\u0434\u044b",
+                "save": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c .env",
+                "back": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043c\u0430\u0441\u0442\u0435\u0440 \u0444\u043e\u0440\u043c",
+                "install": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c"
+            },
+            "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u044f",
+            "save": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c .env",
+            "success": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 \u0444\u0430\u0439\u043b\u0435 .env",
+            "errors": "\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0438 \u0444\u0430\u0439\u043b\u0430 .env, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u0435 \u0435\u0433\u043e \u0432\u0440\u0443\u0447\u043d\u0443\u044e"
+        },
+        "final": {
+            "title": "\u0413\u043e\u0442\u043e\u0432\u043e",
+            "finished": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043e.",
+            "exit": "\u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u0434\u043b\u044f \u0432\u044b\u0445\u043e\u0434\u0430"
+        }
+    }
+}

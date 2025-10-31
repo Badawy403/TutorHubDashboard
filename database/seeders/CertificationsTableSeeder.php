@@ -1,0 +1,507 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+
+class CertificationsTableSeeder extends Seeder
+{
+
+    /**
+     * Auto generated seed file
+     *
+     * @return void
+     */
+    public function run()
+    {
+        
+
+        \DB::table('certifications')->delete();
+        
+        \DB::table('certifications')->insert(array (
+            0 => 
+            array (
+                'id' => 1,
+                'teacher_id' => 1,
+                'academy_id' => NULL,
+                'name' => 'Law',
+                'description' => '<p>asasasasasasasaddaada</p>',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1691067767banner design new1.jpg',
+                'created_at' => '2023-08-03 16:02:47',
+                'updated_at' => '2023-08-03 16:02:47',
+                'deleted_at' => NULL,
+            ),
+            1 => 
+            array (
+                'id' => 2,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'Law Specialist',
+                'description' => '<p>Test Certification Law Specialist&nbsp;</p>',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1691576031Isabella Carrington .jpg',
+                'created_at' => '2023-08-09 13:13:51',
+                'updated_at' => '2023-08-09 13:13:51',
+                'deleted_at' => NULL,
+            ),
+            2 => 
+            array (
+                'id' => 3,
+                'teacher_id' => 16,
+                'academy_id' => NULL,
+                'name' => 'certification',
+                'description' => '<p>certificationcertificationcertificationcertificationcertificationcertificationcertificationcertificationcertificationcertificationcertification</p>',
+                'is_active' => 1,
+            'image' => '/files/teacher_certifications/1695053397download (1).jpeg',
+                'created_at' => '2023-09-18 19:09:57',
+                'updated_at' => '2023-09-18 19:09:57',
+                'deleted_at' => NULL,
+            ),
+            3 => 
+            array (
+                'id' => 4,
+                'teacher_id' => 14,
+                'academy_id' => NULL,
+                'name' => 'Teacher',
+                'description' => '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est&nbsp;</p>',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1697195788law-template-poster-design_23-2149194024.pdf',
+                'created_at' => '2023-10-13 16:16:28',
+                'updated_at' => '2023-10-13 16:16:28',
+                'deleted_at' => NULL,
+            ),
+            4 => 
+            array (
+                'id' => 5,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'the certification nam e',
+                'description' => NULL,
+                'is_active' => 1,
+                'image' => NULL,
+                'created_at' => '2024-01-02 21:08:38',
+                'updated_at' => '2024-01-02 21:08:38',
+                'deleted_at' => NULL,
+            ),
+            5 => 
+            array (
+                'id' => 6,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'the certification nam e',
+                'description' => NULL,
+                'is_active' => 1,
+                'image' => NULL,
+                'created_at' => '2024-01-03 19:17:29',
+                'updated_at' => '2024-01-03 19:17:29',
+                'deleted_at' => NULL,
+            ),
+            6 => 
+            array (
+                'id' => 7,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'the certification nam e',
+                'description' => NULL,
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704293579321104950_5652089148238981_1236083872271394542_n.jpeg',
+                'created_at' => '2024-01-03 19:52:59',
+                'updated_at' => '2024-01-03 19:52:59',
+                'deleted_at' => NULL,
+            ),
+            7 => 
+            array (
+                'id' => 8,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'the certification nam e',
+                'description' => NULL,
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/170429363661zy+BjxNpL._AC_SX679_.jpg',
+                'created_at' => '2024-01-03 19:53:56',
+                'updated_at' => '2024-01-03 19:53:56',
+                'deleted_at' => NULL,
+            ),
+            8 => 
+            array (
+                'id' => 9,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'from mob',
+                'description' => 'decr',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704295678images.jpeg',
+                'created_at' => '2024-01-03 20:27:58',
+                'updated_at' => '2024-01-04 13:09:15',
+                'deleted_at' => '2024-01-04 13:09:15',
+            ),
+            9 => 
+            array (
+                'id' => 10,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'Test',
+                'description' => 'Test',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704356615pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-04 13:23:35',
+                'updated_at' => '2024-01-04 13:23:35',
+                'deleted_at' => NULL,
+            ),
+            10 => 
+            array (
+                'id' => 11,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'From',
+                'description' => 'From',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704358011IMG_20240102_131826.jpg',
+                'created_at' => '2024-01-04 13:46:51',
+                'updated_at' => '2024-01-04 13:46:51',
+                'deleted_at' => NULL,
+            ),
+            11 => 
+            array (
+                'id' => 12,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'TT',
+                'description' => 'Desc',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704714101images.jpeg',
+                'created_at' => '2024-01-08 16:41:41',
+                'updated_at' => '2024-01-08 16:41:41',
+                'deleted_at' => NULL,
+            ),
+            12 => 
+            array (
+                'id' => 13,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'TT 2',
+                'description' => 'Desc 3',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704714547pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-08 16:49:07',
+                'updated_at' => '2024-01-08 16:49:07',
+                'deleted_at' => NULL,
+            ),
+            13 => 
+            array (
+                'id' => 14,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'TT 3',
+                'description' => 'Desc #',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704714634IMG_20240102_131826.jpg',
+                'created_at' => '2024-01-08 16:50:34',
+                'updated_at' => '2024-01-08 16:50:34',
+                'deleted_at' => NULL,
+            ),
+            14 => 
+            array (
+                'id' => 15,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'TT 4',
+                'description' => 'Desc 4',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704714742IMG_20240102_131826.jpg',
+                'created_at' => '2024-01-08 16:52:22',
+                'updated_at' => '2024-01-08 16:52:22',
+                'deleted_at' => NULL,
+            ),
+            15 => 
+            array (
+                'id' => 16,
+                'teacher_id' => 30,
+                'academy_id' => NULL,
+                'name' => 'CT 1',
+                'description' => 'desc 1',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1704715156IMG_20240102_131826.jpg',
+                'created_at' => '2024-01-08 16:59:16',
+                'updated_at' => '2024-01-08 16:59:16',
+                'deleted_at' => NULL,
+            ),
+            16 => 
+            array (
+                'id' => 17,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'vvv',
+                'description' => 'vv',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705493684pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-17 17:14:44',
+                'updated_at' => '2024-01-17 17:14:44',
+                'deleted_at' => NULL,
+            ),
+            17 => 
+            array (
+                'id' => 18,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'vvv',
+                'description' => 'vv',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705493746pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-17 17:15:46',
+                'updated_at' => '2024-01-17 17:15:46',
+                'deleted_at' => NULL,
+            ),
+            18 => 
+            array (
+                'id' => 19,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'vvv',
+                'description' => 'vv',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705493746pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-17 17:15:46',
+                'updated_at' => '2024-01-17 17:15:46',
+                'deleted_at' => NULL,
+            ),
+            19 => 
+            array (
+                'id' => 20,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'vvv',
+                'description' => 'vv',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705493746pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-17 17:15:46',
+                'updated_at' => '2024-01-17 17:15:46',
+                'deleted_at' => NULL,
+            ),
+            20 => 
+            array (
+                'id' => 21,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'vvv',
+                'description' => 'vv',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705493752pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-17 17:15:52',
+                'updated_at' => '2024-06-03 19:29:53',
+                'deleted_at' => '2024-06-03 19:29:53',
+            ),
+            21 => 
+            array (
+                'id' => 22,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'sa',
+                'description' => 'sa',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705493826pexels-pixabay-268533.jpg',
+                'created_at' => '2024-01-17 17:17:06',
+                'updated_at' => '2024-01-17 17:17:06',
+                'deleted_at' => NULL,
+            ),
+            22 => 
+            array (
+                'id' => 23,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'cer',
+                'description' => 'cer',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705494932images.jpeg',
+                'created_at' => '2024-01-17 17:35:32',
+                'updated_at' => '2024-01-17 17:35:32',
+                'deleted_at' => NULL,
+            ),
+            23 => 
+            array (
+                'id' => 24,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'do',
+                'description' => 'to',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705496240Screenshot_2024-01-16-14-57-03-911_com.lawadvisor.teacher.jpg',
+                'created_at' => '2024-01-17 17:57:20',
+                'updated_at' => '2024-01-17 17:57:20',
+                'deleted_at' => NULL,
+            ),
+            24 => 
+            array (
+                'id' => 25,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'do',
+                'description' => 'to',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1705496240Screenshot_2024-01-16-14-57-03-911_com.lawadvisor.teacher.jpg',
+                'created_at' => '2024-01-17 17:57:20',
+                'updated_at' => '2024-01-17 17:57:20',
+                'deleted_at' => NULL,
+            ),
+            25 => 
+            array (
+                'id' => 26,
+                'teacher_id' => 28,
+                'academy_id' => NULL,
+                'name' => 'zoe',
+                'description' => '<p>lorem ipsum dollar sit amit</p>',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1709025446Avatar.png',
+                'created_at' => '2024-02-27 09:17:26',
+                'updated_at' => '2024-02-27 09:17:26',
+                'deleted_at' => NULL,
+            ),
+            26 => 
+            array (
+                'id' => 27,
+                'teacher_id' => 28,
+                'academy_id' => NULL,
+                'name' => 'Zoe',
+                'description' => '<p>dafafffafaff</p>',
+                'is_active' => 1,
+            'image' => '/files/teacher_certifications/1709025760image 17 (1).png',
+                'created_at' => '2024-02-27 09:22:40',
+                'updated_at' => '2024-02-27 09:22:40',
+                'deleted_at' => NULL,
+            ),
+            27 => 
+            array (
+                'id' => 28,
+                'teacher_id' => 28,
+                'academy_id' => NULL,
+                'name' => 'Jack',
+                'description' => '<p>aaaadhhfba &nbsp;</p>',
+                'is_active' => 1,
+            'image' => '/files/teacher_certifications/1709026324Buildings-new-york-city 1 (1).png',
+                'created_at' => '2024-02-27 09:32:04',
+                'updated_at' => '2024-02-27 10:00:38',
+                'deleted_at' => NULL,
+            ),
+            28 => 
+            array (
+                'id' => 29,
+                'teacher_id' => 28,
+                'academy_id' => NULL,
+                'name' => 'Jeson',
+                'description' => '<p>aavbbb</p>',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1709026346Avatar.png',
+                'created_at' => '2024-02-27 09:32:26',
+                'updated_at' => '2024-02-27 09:32:26',
+                'deleted_at' => NULL,
+            ),
+            29 => 
+            array (
+                'id' => 30,
+                'teacher_id' => 28,
+                'academy_id' => NULL,
+                'name' => 'Will Jackson',
+                'description' => '<p>What will be the ?</p>',
+                'is_active' => 0,
+                'image' => '/files/teacher_certifications/1709032375Avatar.png',
+                'created_at' => '2024-02-27 11:12:55',
+                'updated_at' => '2024-03-05 13:19:53',
+                'deleted_at' => NULL,
+            ),
+            30 => 
+            array (
+                'id' => 31,
+                'teacher_id' => 28,
+                'academy_id' => NULL,
+                'name' => '45df',
+                'description' => '<p>fdgfdgfdhfghfghfghfghfghfghf</p>',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1709627875Appointment.png',
+                'created_at' => '2024-03-05 13:37:55',
+                'updated_at' => '2024-03-05 13:38:04',
+                'deleted_at' => NULL,
+            ),
+            31 => 
+            array (
+                'id' => 32,
+                'teacher_id' => NULL,
+                'academy_id' => 5,
+                'name' => 'My Certificate',
+                'description' => '<p>Lorem Ipsum Dollar Sit Amit</p>',
+                'is_active' => 1,
+                'image' => '/images/academy_certifications/65fdd23e0eec5.png',
+                'created_at' => '2024-03-22 23:47:26',
+                'updated_at' => '2024-03-22 23:47:26',
+                'deleted_at' => NULL,
+            ),
+            32 => 
+            array (
+                'id' => 33,
+                'teacher_id' => NULL,
+                'academy_id' => 5,
+                'name' => 'Second Certificate',
+                'description' => '<p>Loream akanfkjnal</p>',
+                'is_active' => 0,
+                'image' => '/images/academy_certifications/65fdd26f87ad9.png',
+                'created_at' => '2024-03-22 23:48:15',
+                'updated_at' => '2024-03-22 23:48:15',
+                'deleted_at' => NULL,
+            ),
+            33 => 
+            array (
+                'id' => 34,
+                'teacher_id' => 67,
+                'academy_id' => NULL,
+                'name' => 'Mahadbaig',
+                'description' => '<p>asfdfadsgsadgs</p>',
+                'is_active' => 1,
+                'image' => NULL,
+                'created_at' => '2024-05-11 18:15:38',
+                'updated_at' => '2024-05-11 18:15:38',
+                'deleted_at' => NULL,
+            ),
+            34 => 
+            array (
+                'id' => 35,
+                'teacher_id' => 69,
+                'academy_id' => NULL,
+                'name' => 'Test',
+                'description' => '<p>Hello</p>',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1717059216screencapture-dev-tutorhub-hexathemes-account-2024-05-30-13_48_49.png',
+                'created_at' => '2024-05-30 13:53:36',
+                'updated_at' => '2024-05-30 13:53:36',
+                'deleted_at' => NULL,
+            ),
+            35 => 
+            array (
+                'id' => 36,
+                'teacher_id' => 71,
+                'academy_id' => NULL,
+                'name' => 'uiux design',
+                'description' => 'bsbsndnndndnd',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1718113436IMG-20240103-WA0049.jpg',
+                'created_at' => '2024-06-11 18:43:56',
+                'updated_at' => '2024-06-11 18:43:56',
+                'deleted_at' => NULL,
+            ),
+            36 => 
+            array (
+                'id' => 37,
+                'teacher_id' => 15,
+                'academy_id' => NULL,
+                'name' => 'Khan cer',
+                'description' => 'desc',
+                'is_active' => 1,
+                'image' => '/files/teacher_certifications/1718292059images.jpeg',
+                'created_at' => '2024-06-13 20:20:59',
+                'updated_at' => '2024-06-13 20:20:59',
+                'deleted_at' => NULL,
+            ),
+        ));
+        
+        
+    }
+}

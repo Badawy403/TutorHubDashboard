@@ -1,0 +1,170 @@
+{
+    "installer_messages": {
+        "title": "Kurulum",
+        "next": "Sonraki Ad\u0131m",
+        "back": "\u00d6nceki Ad\u0131m",
+        "finish": "Kur",
+        "forms": {
+            "errorTitle": "Hatalar tespit edildi :"
+        },
+        "welcome": {
+            "templateTitle": "Kurulum'a Ho\u015fgeldiniz",
+            "title": "Kurulum",
+            "message": "Kolay Kurulum Sihirbaz\u0131.",
+            "next": "Gereksinimleri Denetle"
+        },
+        "requirements": {
+            "templateTitle": "Ad\u0131m 1 | Sunucu Gereksinimleri",
+            "title": "Sunucu Gereksinimleri",
+            "next": "\u0130zinleri Kontrol Et"
+        },
+        "permissions": {
+            "templateTitle": "Ad\u0131m 2 | \u0130zinler",
+            "title": "\u0130zinler",
+            "next": "Ortam ayarlar\u0131na ge\u00e7"
+        },
+        "environment": {
+            "menu": {
+                "templateTitle": "Ad\u0131m 3 | Ortam Ayarlar\u0131",
+                "title": "Ortam Ayarlar\u0131",
+                "desc": "L\u00fctfen uygulaman\u0131n <code> .env <\/code> dosyas\u0131n\u0131 nas\u0131l yap\u0131land\u0131raca\u011f\u0131n\u0131z\u0131 se\u00e7in.",
+                "wizard-button": "Form Sihirbaz\u0131 Kurulumu ",
+                "classic-button": "Klasik Metin Edit\u00f6r\u00fc"
+            },
+            "wizard": {
+                "templateTitle": "Ad\u0131m 3 | Ortam Ayarlar\u0131 | Form sihirbaz\u0131",
+                "title": "Guided <code>.env<\/code> Wizard",
+                "tabs": {
+                    "environment": "Ortam",
+                    "database": "Veritaban\u0131",
+                    "application": "Uygulama"
+                },
+                "form": {
+                    "name_required": "Bir ortam ad\u0131 gerekiyor.",
+                    "app_name_label": "Uygulama Ad\u0131",
+                    "app_name_placeholder": "Uygulama Ad\u0131",
+                    "app_environment_label": "Uygulama Ortam\u0131",
+                    "app_environment_label_local": "Yerel",
+                    "app_environment_label_developement": "Geli\u015ftirme",
+                    "app_environment_label_qa": "qa",
+                    "app_environment_label_production": "\u00dcretim",
+                    "app_environment_label_other": "Di\u011fer",
+                    "app_environment_placeholder_other": "\u00c7evrenizi girin ...",
+                    "app_debug_label": "Uygulama Hatalar\u0131 G\u00f6sterme",
+                    "app_debug_label_true": "Aktif",
+                    "app_debug_label_false": "Pasif",
+                    "app_log_level_label": "Uygulama G\u00fcnl\u00fc\u011f\u00fc D\u00fczeyi",
+                    "app_log_level_label_debug": "hata ay\u0131klama",
+                    "app_log_level_label_info": "bilgi",
+                    "app_log_level_label_notice": "haber",
+                    "app_log_level_label_warning": "uyar\u0131",
+                    "app_log_level_label_error": "hata",
+                    "app_log_level_label_critical": "kritik",
+                    "app_log_level_label_alert": "uyar\u0131",
+                    "app_log_level_label_emergency": "acil durum",
+                    "app_url_label": "Uygulama URL'si",
+                    "app_url_placeholder": "Uygulama URL'si",
+                    "db_connection_label": "Veritaban\u0131 Ba\u011flant\u0131s\u0131",
+                    "db_connection_label_mysql": "mysql",
+                    "db_connection_label_sqlite": "sqlite",
+                    "db_connection_label_pgsql": "pgsql",
+                    "db_connection_label_sqlsrv": "sqlsrv",
+                    "db_host_label": "Veritaban\u0131 Sunucusu",
+                    "db_host_placeholder": "Veritaban\u0131 Sunucusu",
+                    "db_port_label": "Veritaban\u0131 Ba\u011flant\u0131 Noktas\u0131",
+                    "db_port_placeholder": "Veritaban\u0131 Ba\u011flant\u0131 Noktas\u0131",
+                    "db_name_label": "Veritaban\u0131 Ad\u0131",
+                    "db_name_placeholder": "Veritaban\u0131 Ad\u0131",
+                    "db_username_label": "Veritaban\u0131 Kullan\u0131c\u0131 Ad\u0131",
+                    "db_username_placeholder": "Veritaban\u0131 Kullan\u0131c\u0131 Ad\u0131",
+                    "db_password_label": "Veritaban\u0131 \u015eifresi",
+                    "db_password_placeholder": "Veritaban\u0131 \u015eifresi",
+                    "app_tabs": {
+                        "more_info": "Daha Fazla Bilgi",
+                        "broadcasting_title": "Yay\u0131nc\u0131l\u0131k, \u00d6nbellekleme, Oturum &amp; Kuyruk",
+                        "broadcasting_label": "Yay\u0131nc\u0131 S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "broadcasting_placeholder": "Yay\u0131nc\u0131 S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "cache_label": "\u00d6nbellek S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "cache_placeholder": "\u00d6nbellek S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "session_label": "Oturum S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "session_placeholder": "Oturum S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "queue_label": "Kuyruk S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "queue_placeholder": "Kuyruk S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "redis_label": "Redis S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "redis_host": "Redis Host",
+                        "redis_password": "Redis \u015eifre",
+                        "redis_port": "Redis Port",
+                        "mail_label": "Mail",
+                        "mail_driver_label": "Posta S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "mail_driver_placeholder": "Posta S\u00fcr\u00fcc\u00fcs\u00fc",
+                        "mail_host_label": "Posta Sunucusu",
+                        "mail_host_placeholder": "Posta Sunucusu",
+                        "mail_port_label": "Posta Ba\u011flant\u0131 Noktas\u0131",
+                        "mail_port_placeholder": "Posta Ba\u011flant\u0131 Noktas\u0131",
+                        "mail_username_label": "Posta Kullan\u0131c\u0131 Ad\u0131",
+                        "mail_username_placeholder": "Posta Kullan\u0131c\u0131 Ad\u0131",
+                        "mail_password_label": "Posta Parolas\u0131",
+                        "mail_password_placeholder": "Posta Parolas\u0131",
+                        "mail_encryption_label": "Posta G\u00fcvenlik T\u00fcr\u00fc",
+                        "mail_encryption_placeholder": "Posta G\u00fcvenlik T\u00fcr\u00fc",
+                        "pusher_label": "Pusher",
+                        "pusher_app_id_label": "\u0130tici Uygulama Kimli\u011fi",
+                        "pusher_app_id_palceholder": "\u0130tici Uygulama Kimli\u011fi",
+                        "pusher_app_key_label": "\u0130tici Uygulama Anahtar\u0131",
+                        "pusher_app_key_palceholder": "\u0130tici Uygulama Anahtar\u0131",
+                        "pusher_app_secret_label": "Pusher App Secret",
+                        "pusher_app_secret_palceholder": "Pusher App Secret"
+                    },
+                    "buttons": {
+                        "setup_database": "Veritaban\u0131 Ayarlar\u0131",
+                        "setup_application": "Uygulama Ayarlar\u0131",
+                        "install": "Y\u00fckle"
+                    }
+                }
+            },
+            "classic": {
+                "templateTitle": "3. Ad\u0131m | Ortam Ayarlar\u0131 | Klasik Edit\u00f6r ",
+                "title": "Klasik Metin Edit\u00f6r\u00fc",
+                "save": "Kaydet (.env)",
+                "back": "Form Sihirbaz\u0131n\u0131 Kullan",
+                "install": "Y\u00fckle"
+            },
+            "success": ".env dosyas\u0131 ayarlar\u0131 kaydedildi.",
+            "errors": ".env dosyas\u0131n\u0131 kaydedemiyoruz, l\u00fctfen el ile olu\u015fturun."
+        },
+        "install": "Kurulum",
+        "installed": {
+            "success_log_message": "Uygulama ba\u015far\u0131yla KURULDU "
+        },
+        "final": {
+            "title": "Kurulum Bitti",
+            "templateTitle": "Kurulum Bitti",
+            "finished": "Uygulama ba\u015far\u0131yla kuruldu.",
+            "migration": "Veritaban\u0131  Konsolu \u00c7\u0131kt\u0131s\u0131: ",
+            "console": "Uygulama Konsolu \u00c7\u0131kt\u0131s\u0131:",
+            "log": "Kurulum G\u00fcnl\u00fc\u011f\u00fc Giri\u015fi:",
+            "env": "Son .env Dosyas\u0131:",
+            "exit": "\u00c7\u0131kmak i\u00e7in buray\u0131 t\u0131klay\u0131n"
+        },
+        "updater": {
+            "title": "G\u00fcncelleyici",
+            "welcome": {
+                "title": "G\u00fcncelleyiciye Ho\u015f Geldiniz",
+                "message": "G\u00fcncelleme sihirbaz\u0131na ho\u015f geldiniz."
+            },
+            "overview": {
+                "title": "Genel bak\u0131\u015f",
+                "message": "1 g\u00fcncelleme var.| :number g\u00fcncellemeleri var.",
+                "install_updates": "G\u00fcncellemeyi y\u00fckle"
+            },
+            "final": {
+                "title": "Tamamland\u0131",
+                "finished": "Uygulaman\u0131n veritaban\u0131n\u0131 ba\u015far\u0131yla g\u00fcncelle\u015ftirildi.",
+                "exit": "\u00c7\u0131kmak ve uygulamay\u0131 ba\u015flatmak i\u00e7in buraya t\u0131klay\u0131n"
+            },
+            "log": {
+                "success_message": "Uygulama G\u00dcNCELLEND\u0130  "
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+h1{
+    font-weight: 700;
+}
+.btn {
+    // text-transform: capitalize;
+    font-weight: 400;
+    padding: 10px 30px;
+    font-size: 14px;
+    box-shadow: 0px 2px 10px 2px #00000026;
+}
+.btn-light {
+    // --bs-btn-font-weight: 600;
+    --bs-btn-color: #000000 !important;
+    --bs-btn-bg: #E7F3FA !important;
+    --bs-btn-border-color: #E7F3FA !important;
+
+    --bs-btn-hover-color: #ffffff !important;
+    --bs-btn-hover-bg: #0A93E2 !important;
+    --bs-btn-hover-border-color: #0A93E2 !important;
+    // --bs-btn-focus-shadow-rgb: #0A93E2 !important;
+    --bs-btn-active-color: #ffffff !important;
+    --bs-btn-active-bg: #0A93E2 !important;
+    --bs-btn-active-border-color: #0A93E2 !important;
+}
+.body-secondary-bg {
+    background-color: #F6F7FA;
+}
+
+/// calendar setttings
+
+.dp__main{
+    font-family: $font-family-sans-serif !important;
+    justify-content: center;
+    .dp__calendar_wrap{
+        font-family: $font-family-sans-serif !important;
+    }
+    .dp__calendar_header_item {
+        width: 45px;
+    }
+
+    .dp__cell_inner {
+        width: 45px;
+    }
+}
+
+
+.event-carousel{
+    .carousel__next{
+
+    background: $primary;
+    padding: 7px;
+    border-radius: 26px;
+    color: white;
+    }
+    .carousel__prev{
+        background: $primary;
+        padding: 7px;
+        border-radius: 26px;
+        color: white;
+    }
+    .carousel__pagination-button{
+        margin-top: 40px;
+    }
+    .carousel__pagination-button:hover::after, .carousel__pagination-button--active::after{
+          background-color: $primary;
+    }
+
+}
+
+.pt-6{
+    padding-top: 60px;
+}
+
+.featured-academy-carousel{
+    @extend .event-carousel
+}

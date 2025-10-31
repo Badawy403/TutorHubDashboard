@@ -1,0 +1,42 @@
+.profile-cover{
+    
+    background-image: url(../js/images/common/bg_profile.jpg);
+    background-color: #F9F6F2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.social-share {
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+
+    li {
+        margin: 0 0.25rem;
+        list-style: none;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        width: 30px;
+        position: relative;
+
+        a,
+        button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 30px;
+            width: 30px;
+            border-radius: 200px;
+            background-color: #BBBBBB;
+            color: white;
+            border: none;
+
+            &:hover {
+                background-color: darken(#BBBBBB, 10%);
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "installer_messages": {
+        "title": "Procesul de instalare Laravel",
+        "next": "Pasul urm\u0103tor",
+        "welcome": {
+            "title": "Bun venit \u00een procesul de instalare...",
+            "message": "Bun venit \u00een configurarea asistat\u0103."
+        },
+        "requirements": {
+            "title": "Cerin\u021be"
+        },
+        "permissions": {
+            "title": "Permisiuni"
+        },
+        "environment": {
+            "title": "Sett\u0103ri ale mediului",
+            "save": "Salveaz\u0103 fi\u0219ier .env",
+            "success": "Set\u0103rile tale au fost salvate \u00een fi\u0219ierul .env.",
+            "errors": "Nu am putut salva fi\u0219ierul .env, Te rug\u0103m s\u0103-l creezi manual."
+        },
+        "final": {
+            "title": "Am terminat",
+            "finished": "Aplica\u021bia a fost instalat\u0103 cu succes.",
+            "exit": "Click aici pentru a ie\u0219i"
+        }
+    }
+}

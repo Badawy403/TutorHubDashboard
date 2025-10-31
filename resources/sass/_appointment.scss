@@ -1,0 +1,103 @@
+#appointmentTab {
+    .nav-item {
+        position: relative;
+        padding-right:64px;
+
+        .nav-link {
+            background-color: transparent;
+            color: #75726D;
+            font-size: 16px;
+            border: none;
+            font-weight: 600;
+
+            // .bi {
+            //     display: none;
+            // }
+
+            .numric {
+                display: none;
+            }
+
+            &.active {
+                color: #913688;
+
+                .numric {
+                    display: block;
+                }
+
+                .bi {
+                    display: none;
+                }
+            }
+
+        }
+
+        // &::after {
+        //     content: "";
+        //     width: 64px;
+        //     display: flex;
+        //     height: 1px;
+        //     background: #BCB7B0;
+        //     position: absolute;
+        //     top: 50%;
+        //     right: 0;
+        //     margin-top: 5px;
+        // }
+
+        &:last-child{
+            padding-right:0;
+            &::after {
+                content: none;
+            }
+        }
+    }
+}
+
+.lists{
+    min-height: 299px;
+    padding: 8px;
+    max-height: 300px;
+    overflow-y: scroll;
+
+    .li{
+        width: 140px;
+        height: 60px;
+
+        .btn{
+            width: 140px;
+            height: 40px;
+            font-size: 12px;
+        }
+    }
+}
+.academy-pic{
+    width: 60px;
+    height: 55px;
+}
+.payment-icons{
+    width: 160px;
+    height: 90px;
+}
+@media screen and (max-width:844px) {
+
+    #appointmentTab {
+        .nav-item{
+            padding-right:0px;
+        }
+    }
+    .continue{
+            width: 100%;
+    }
+    .payment-icons{
+        width: 260px;
+        height: 120px;
+    }
+}
+
+@media (min-width:375px) and (max-width:413px){
+    .lists{
+        padding: 0;
+    }
+}
+
+

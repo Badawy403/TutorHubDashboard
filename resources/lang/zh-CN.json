@@ -1,0 +1,28 @@
+{
+    "installer_messages": {
+        "title": "Laravel\u5b89\u88c5\u7a0b\u5e8f",
+        "next": "\u4e0b\u4e00\u6b65",
+        "finish": "\u5b89\u88c5",
+        "welcome": {
+            "title": "\u6b22\u8fce\u6765\u5230Laravel\u5b89\u88c5\u7a0b\u5e8f",
+            "message": "\u6b22\u8fce\u6765\u5230\u5b89\u88c5\u5411\u5bfc."
+        },
+        "requirements": {
+            "title": "\u73af\u5883\u8981\u6c42"
+        },
+        "permissions": {
+            "title": "\u6743\u9650"
+        },
+        "environment": {
+            "title": "\u73af\u5883\u8bbe\u7f6e",
+            "save": "\u4fdd\u5b58 .env",
+            "success": ".env \u6587\u4ef6\u4fdd\u5b58\u6210\u529f.",
+            "errors": "\u65e0\u6cd5\u4fdd\u5b58 .env \u6587\u4ef6, \u8bf7\u624b\u52a8\u521b\u5efa\u5b83."
+        },
+        "final": {
+            "title": "\u5b8c\u6210",
+            "finished": "\u5e94\u7528\u5df2\u6210\u529f\u5b89\u88c5.",
+            "exit": "\u70b9\u51fb\u9000\u51fa"
+        }
+    }
+}

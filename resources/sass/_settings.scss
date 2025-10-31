@@ -1,0 +1,58 @@
+.edit-cover{
+    
+    background-image: url(../js/images/common/bg_profile.jpg);
+    background-color: #F9F6F2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.profile-page-wizrd {
+    // .form-wizard-vue .fw-body-list .fw-list-progress {
+    //     position: absolute;
+    //     width: 50%;
+    //     height: 8.47px;
+    //     top: 32%;
+    //     left: 68%;
+    // }
+
+    // .form-wizard-vue .fw-body-list>li>.fw-list-wrapper {
+    //     flex-direction: column !important;
+    // }
+
+    .form-wizard-vue {
+        .fw-body-list{
+            padding-left: 0;
+        }
+        .fw-body{
+            .fw-body-content {
+                padding-top: 0;
+                padding-left: 0px;
+                padding-right: 0px;
+            }  
+        }
+        
+    }
+
+    // .form-wizard-vue .fw-body-list li,
+    // .form-wizard-vue .fw-body-list .fw-list-wrapper {
+    //     flex-grow: 1;
+    // }
+
+    // .fw-step-title {
+    //     margin-top: 15px;
+    // }
+
+    // .form-wizard-vue .fw-body-list .fw-list-progress-active {
+    //     background: #fac14d !important;
+    // }
+
+    // .form-wizard-vue .fw-step-active {
+    //     background: #fac14d !important;
+    // }
+
+    // .form-wizard-vue {
+
+    //     .fw-body-list {
+    //         margin-top: 20px;
+    //     }
+    // }
+}

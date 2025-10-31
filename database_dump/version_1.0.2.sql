@@ -1,0 +1,2 @@
+ALTER TABLE `fund_bank_transfers` ADD `is_fund` TINYINT NOT NULL DEFAULT '0' AFTER `attachment`;
+INSERT INTO `general_settings` (`id`, `name`, `display_name`, `value`, `is_specific`, `is_multilang`, `type`, `page`, `created_at`, `updated_at`) VALUES (NULL, 'is_auto_approve', 'Auto Approve Users', '1', '0', '0', 'boolean_selection', NULL, '2024-12-06 11:42:40', '2024-12-06 06:42:40'), (NULL, 'is_ai_chatbot_enable', 'Is AI chatBot Enable', '1', '0', '0', 'boolean_selection', '', '2024-12-18 11:42:40', '2024-12-18 11:42:40');

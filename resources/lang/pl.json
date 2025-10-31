@@ -1,0 +1,27 @@
+{
+    "installer_messages": {
+        "title": "Laravel Instalator",
+        "next": "Nast\u0119pny krok",
+        "welcome": {
+            "title": "Instalacja Laravel",
+            "message": "Witaj w kreatorze instalacji."
+        },
+        "requirements": {
+            "title": "Wymagania systemowe "
+        },
+        "permissions": {
+            "title": "Uprawnienia"
+        },
+        "environment": {
+            "title": "Ustawnienia \u015brodowiska",
+            "save": "Zapisz .env",
+            "success": "Plik .env zosta\u0142 poprawnie zainstalowany.",
+            "errors": "Nie mo\u017cna zapisa\u0107 pliku .env, Prosz\u0119 utworzy\u0107 go r\u0119cznie."
+        },
+        "final": {
+            "title": "Instalacja zako\u0144czona",
+            "finished": "Aplikacja zosta\u0142a poprawnie zainstalowana.",
+            "exit": "Kliknij aby zako\u0144czy\u0107"
+        }
+    }
+}

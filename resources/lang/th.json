@@ -1,0 +1,170 @@
+{
+    "installer_messages": {
+        "title": "\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07 Laravel",
+        "next": "\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b",
+        "back": "\u0e22\u0e49\u0e2d\u0e19\u0e01\u0e25\u0e31\u0e1a",
+        "finish": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07",
+        "forms": {
+            "errorTitle": "\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e19\u0e35\u0e49\u0e40\u0e01\u0e34\u0e14\u0e02\u0e36\u0e49\u0e19:"
+        },
+        "welcome": {
+            "templateTitle": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e15\u0e49\u0e2d\u0e19\u0e23\u0e31\u0e1a",
+            "title": "\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07 Laravel",
+            "message": "\u0e27\u0e34\u0e0b\u0e32\u0e23\u0e4c\u0e14\u0e01\u0e32\u0e23\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e41\u0e25\u0e30\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e07\u0e48\u0e32\u0e22",
+            "next": "\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14"
+        },
+        "requirements": {
+            "templateTitle": "\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48 1 | \u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e02\u0e2d\u0e07\u0e40\u0e0b\u0e34\u0e23\u0e4c\u0e1f\u0e40\u0e27\u0e2d\u0e23\u0e4c",
+            "title": "\u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e02\u0e2d\u0e07\u0e40\u0e0b\u0e34\u0e23\u0e4c\u0e1f\u0e40\u0e27\u0e2d\u0e23\u0e4c",
+            "next": "\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e01\u0e32\u0e23\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15"
+        },
+        "permissions": {
+            "templateTitle": "\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48 2 | \u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c",
+            "title": "\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c",
+            "next": "\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e04\u0e48\u0e32\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21"
+        },
+        "environment": {
+            "menu": {
+                "templateTitle": "\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48 3 | \u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21",
+                "title": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21",
+                "desc": "\u0e42\u0e1b\u0e23\u0e14\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e27\u0e34\u0e18\u0e35\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e04\u0e48\u0e32\u0e44\u0e1f\u0e25\u0e4c\u0e41\u0e2d\u0e1b <code> .env <\/code>",
+                "wizard-button": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e15\u0e31\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e1f\u0e2d\u0e23\u0e4c\u0e21",
+                "classic-button": "\u0e41\u0e01\u0e49\u0e44\u0e02\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e04\u0e25\u0e32\u0e2a\u0e2a\u0e34\u0e01"
+            },
+            "wizard": {
+                "templateTitle": "\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48 3 | \u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 | \u0e15\u0e31\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e01\u0e32\u0e23\u0e41\u0e19\u0e30\u0e19\u0e33",
+                "title": "\u0e27\u0e34\u0e0b\u0e32\u0e23\u0e4c\u0e14 <code> .env <\/code> \u0e17\u0e35\u0e48\u0e41\u0e19\u0e30\u0e19\u0e33",
+                "tabs": {
+                    "environment": "\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21",
+                    "database": "\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "application": "\u0e41\u0e2d\u0e1e\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e48\u0e19"
+                },
+                "form": {
+                    "name_required": "\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e30\u0e1a\u0e38\u0e0a\u0e37\u0e48\u0e2d\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21",
+                    "app_name_label": "\u0e0a\u0e37\u0e48\u0e2d\u0e41\u0e2d\u0e1b",
+                    "app_name_placeholder": "\u0e0a\u0e37\u0e48\u0e2d\u0e41\u0e2d\u0e1b",
+                    "app_environment_label": "\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e02\u0e2d\u0e07\u0e41\u0e2d\u0e1b",
+                    "app_environment_label_local": "\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
+                    "app_environment_label_developement": "\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e01\u0e32\u0e23",
+                    "app_environment_label_qa": "Qa",
+                    "app_environment_label_production": "\u0e01\u0e32\u0e23\u0e1c\u0e25\u0e34\u0e15",
+                    "app_environment_label_other": "\u0e2d\u0e37\u0e48\u0e19 \u0e46",
+                    "app_environment_placeholder_other": "\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13 ...",
+                    "app_debug_label": "Debug \u0e41\u0e2d\u0e1b",
+                    "app_debug_label_true": "\u0e08\u0e23\u0e34\u0e07",
+                    "app_debug_label_false": "\u0e40\u0e17\u0e47\u0e08",
+                    "app_log_level_label": "\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e41\u0e2d\u0e1b",
+                    "app_log_level_label_debug": "\u0e01\u0e32\u0e23\u0e41\u0e01\u0e49\u0e1b\u0e31\u0e0d\u0e2b\u0e32",
+                    "app_log_level_label_info": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "app_log_level_label_notice": "\u0e41\u0e08\u0e49\u0e07\u0e43\u0e2b\u0e49\u0e17\u0e23\u0e32\u0e1a",
+                    "app_log_level_label_warning": "\u0e01\u0e32\u0e23\u0e40\u0e15\u0e37\u0e2d\u0e19",
+                    "app_log_level_label_error": "\u0e04\u0e27\u0e32\u0e21\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14",
+                    "app_log_level_label_critical": "\u0e27\u0e34\u0e01\u0e24\u0e15\u0e34",
+                    "app_log_level_label_alert": "\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e20\u0e31\u0e22",
+                    "app_log_level_label_emergency": "\u0e01\u0e23\u0e13\u0e35\u0e09\u0e38\u0e01\u0e40\u0e09\u0e34\u0e19",
+                    "app_url_label": "\u0e41\u0e2d\u0e1b URL",
+                    "app_url_placeholder": "\u0e41\u0e2d\u0e1b URL",
+                    "db_connection_label": "\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e15\u0e48\u0e2d\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_connection_label_mysql": "mysql",
+                    "db_connection_label_sqlite": "sqlite",
+                    "db_connection_label_pgsql": "pgsql",
+                    "db_connection_label_sqlsrv": "sqlsrv",
+                    "db_host_label": "\u0e42\u0e2e\u0e2a\u0e15\u0e4c\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_host_placeholder": "\u0e42\u0e2e\u0e2a\u0e15\u0e4c\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_port_label": "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_port_placeholder": "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_name_label": "\u0e0a\u0e37\u0e48\u0e2d\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_name_placeholder": "\u0e0a\u0e37\u0e48\u0e2d\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_username_label": "\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_username_placeholder": "\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_password_label": "\u0e23\u0e2b\u0e31\u0e2a\u0e1c\u0e48\u0e32\u0e19\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "db_password_placeholder": "\u0e23\u0e2b\u0e31\u0e2a\u0e1c\u0e48\u0e32\u0e19\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                    "app_tabs": {
+                        "more_info": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21",
+                        "broadcasting_title": "Broadcasting, Caching, Session, &amp; Queue",
+                        "broadcasting_label": "Broadcast Driver",
+                        "broadcasting_placeholder": "Broadcast Driver",
+                        "cache_label": "Cache Driver",
+                        "cache_placeholder": "Cache Driver",
+                        "session_label": "Session Driver",
+                        "session_placeholder": "Session Driver",
+                        "queue_label": "Queue Driver",
+                        "queue_placeholder": "Queue Driver",
+                        "redis_label": "Redis Driver",
+                        "redis_host": "Redis Host",
+                        "redis_password": "Redis Password",
+                        "redis_port": "Redis Port",
+                        "mail_label": "Mail",
+                        "mail_driver_label": "Mail Driver",
+                        "mail_driver_placeholder": "Mail Driver",
+                        "mail_host_label": "Mail Host",
+                        "mail_host_placeholder": "Mail Host",
+                        "mail_port_label": "Mail Port",
+                        "mail_port_placeholder": "Mail Port",
+                        "mail_username_label": "Mail Username",
+                        "mail_username_placeholder": "Mail Username",
+                        "mail_password_label": "Mail Password",
+                        "mail_password_placeholder": "Mail Password",
+                        "mail_encryption_label": "Mail Encryption",
+                        "mail_encryption_placeholder": "Mail Encryption",
+                        "pusher_label": "Pusher",
+                        "pusher_app_id_label": "Pusher App Id",
+                        "pusher_app_id_palceholder": "Pusher App Id",
+                        "pusher_app_key_label": "Pusher App Key",
+                        "pusher_app_key_palceholder": "Pusher App Key",
+                        "pusher_app_secret_label": "Pusher App Secret",
+                        "pusher_app_secret_palceholder": "Pusher App Secret"
+                    },
+                    "buttons": {
+                        "setup_database": "\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+                        "setup_application": "\u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07",
+                        "install": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07"
+                    }
+                }
+            },
+            "classic": {
+                "templateTitle": "\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48 3 | \u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 | \u0e15\u0e31\u0e27\u0e41\u0e01\u0e49\u0e44\u0e02\u0e41\u0e1a\u0e1a\u0e04\u0e25\u0e32\u0e2a\u0e2a\u0e34\u0e01",
+                "title": "\u0e15\u0e31\u0e27\u0e41\u0e01\u0e49\u0e44\u0e02\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e41\u0e1a\u0e1a\u0e04\u0e25\u0e32\u0e2a\u0e2a\u0e34\u0e04",
+                "save": "\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01 .env",
+                "back": "\u0e43\u0e0a\u0e49\u0e15\u0e31\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e41\u0e1a\u0e1a\u0e1f\u0e2d\u0e23\u0e4c\u0e21",
+                "install": "\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e41\u0e25\u0e30\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07"
+            },
+            "success": "\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13 .env \u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e44\u0e1f\u0e25\u0e4c\u0e41\u0e25\u0e49\u0e27",
+            "errors": "\u0e44\u0e21\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01 .env \u0e44\u0e1f\u0e25\u0e4c, \u0e42\u0e1b\u0e23\u0e14\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e14\u0e49\u0e27\u0e22\u0e15\u0e19\u0e40\u0e2d\u0e07"
+        },
+        "install": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07",
+        "installed": {
+            "success_log_message": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07 Laravel \u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e41\u0e25\u0e49\u0e27"
+        },
+        "final": {
+            "title": "\u0e01\u0e32\u0e23\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e2a\u0e34\u0e49\u0e19",
+            "templateTitle": "\u0e01\u0e32\u0e23\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e2a\u0e34\u0e49\u0e19",
+            "finished": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e41\u0e25\u0e49\u0e27",
+            "migration": "\u0e01\u0e32\u0e23\u0e22\u0e49\u0e32\u0e22 &amp; Seed Console Output:",
+            "console": "\u0e41\u0e2d\u0e1e\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e04\u0e2d\u0e19\u0e42\u0e0b\u0e25\u0e40\u0e2d\u0e32\u0e17\u0e4c\u0e1e\u0e38\u0e17:",
+            "log": "\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e01\u0e32\u0e23\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07:",
+            "env": "\u0e44\u0e1f\u0e25\u0e4c. env \u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22:",
+            "exit": "\u0e04\u0e25\u0e34\u0e01\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2d\u0e2d\u0e01"
+        },
+        "updater": {
+            "title": "Laravel Updater",
+            "welcome": {
+                "title": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e15\u0e49\u0e2d\u0e19\u0e23\u0e31\u0e1a\u0e2a\u0e39\u0e48 The Updater",
+                "message": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e15\u0e49\u0e2d\u0e19\u0e23\u0e31\u0e1a\u0e2a\u0e39\u0e48\u0e15\u0e31\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15"
+            },
+            "overview": {
+                "title": "\u0e20\u0e32\u0e1e\u0e23\u0e27\u0e21",
+                "message": "\u0e21\u0e35\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15 1 \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23 | \u0e21\u0e35: \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e15\u0e31\u0e27\u0e40\u0e25\u0e02",
+                "install_updates": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e31\u0e1a\u0e1b\u0e23\u0e38\u0e07"
+            },
+            "final": {
+                "title": "\u0e40\u0e2a\u0e23\u0e47\u0e08",
+                "finished": "\u0e41\u0e2d\u0e1e\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e48\u0e19 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e41\u0e25\u0e49\u0e27",
+                "exit": "\u0e04\u0e25\u0e34\u0e01\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2d\u0e2d\u0e01"
+            },
+            "log": {
+                "success_message": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07 Laravel \u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e40\u0e21\u0e37\u0e48\u0e2d"
+            }
+        }
+    }
+}

@@ -1,0 +1,298 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+
+class AcademyReviewsTableSeeder extends Seeder
+{
+
+    /**
+     * Auto generated seed file
+     *
+     * @return void
+     */
+    public function run()
+    {
+        
+
+        \DB::table('academy_reviews')->delete();
+        
+        \DB::table('academy_reviews')->insert(array (
+            0 => 
+            array (
+                'id' => 1,
+                'academy_id' => 1,
+                'student_id' => 4,
+                'rating' => 3.0,
+                'experience' => 3.0,
+                'communication' => 2.0,
+                'service' => 0.0,
+                'comment' => 'Good communitcation',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2023-10-03 15:28:17',
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+            ),
+            1 => 
+            array (
+                'id' => 2,
+                'academy_id' => 1,
+                'student_id' => 3,
+                'rating' => 4.0,
+                'experience' => 3.0,
+                'communication' => 2.0,
+                'service' => 0.0,
+                'comment' => 'Good , Nice ',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2023-10-03 15:28:17',
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+            ),
+            2 => 
+            array (
+                'id' => 3,
+                'academy_id' => 1,
+                'student_id' => 4,
+                'rating' => 3.5,
+                'experience' => 3.0,
+                'communication' => 2.0,
+                'service' => 0.0,
+                'comment' => 'Good communitcation and Work',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2023-10-03 15:28:17',
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+            ),
+            3 => 
+            array (
+                'id' => 4,
+                'academy_id' => 1,
+                'student_id' => 8,
+                'rating' => 4.0,
+                'experience' => 3.0,
+                'communication' => 2.0,
+                'service' => 0.0,
+                'comment' => 'Good , Nice ',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2023-10-03 15:28:17',
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+            ),
+            4 => 
+            array (
+                'id' => 5,
+                'academy_id' => 6,
+                'student_id' => 39,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'In today\'s rapidly evolving financial landscape, acquiring sound financial knowledge is more critical than ever. Financial Education Academy has positioned itself as a pivotal institution in delivering high-quality financial education tailored for individuals at various stages of their financial journey. Whether you are a novice investor, a seasoned financial professional, or someone simply looking to manage personal finances more effectively, this academy offers a comprehensive suite of courses designed to meet diverse needs.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:23:40',
+                'updated_at' => '2024-05-14 13:23:40',
+                'deleted_at' => NULL,
+            ),
+            5 => 
+            array (
+                'id' => 6,
+                'academy_id' => 6,
+                'student_id' => 23,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Financial Education Academy offers comprehensive, up-to-date courses on personal finance, investment, and financial planning. With expert instructors, flexible learning formats, and strong community support, it equips learners with practical skills and knowledge. Ideal for all levels, this academy enhances financial literacy and empowers informed decision-making. Highly recommended.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:24:35',
+                'updated_at' => '2024-05-14 13:24:35',
+                'deleted_at' => NULL,
+            ),
+            6 => 
+            array (
+                'id' => 7,
+                'academy_id' => 6,
+                'student_id' => 24,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Financial Education Academy offers top-tier financial courses led by expert instructors. With a user-friendly platform and a supportive community, it caters to all learning styles. The academy equips learners with practical skills and up-to-date knowledge, making it an excellent choice for enhancing financial literacy and professional growth.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:25:36',
+                'updated_at' => '2024-05-14 13:25:36',
+                'deleted_at' => NULL,
+            ),
+            7 => 
+            array (
+                'id' => 8,
+                'academy_id' => 5,
+                'student_id' => 24,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Educational Advisor Academy provides exceptional courses with expert instructors and a flexible learning platform. Catering to diverse learning styles, it offers practical skills and current knowledge. The supportive community and personalized attention make it an ideal choice for enhancing educational advising expertise and career advancement.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:26:35',
+                'updated_at' => '2024-05-14 13:26:35',
+                'deleted_at' => NULL,
+            ),
+            8 => 
+            array (
+                'id' => 9,
+                'academy_id' => 5,
+                'student_id' => 23,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Educational Advisor Academy provides comprehensive, expert-led courses for aspiring and current educational professionals. With flexible online and in-person options, it offers practical, up-to-date training tailored to various educational roles. The supportive community and user-friendly platform make it a top choice for advancing careers in education.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:30:26',
+                'updated_at' => '2024-05-14 13:30:26',
+                'deleted_at' => NULL,
+            ),
+            9 => 
+            array (
+                'id' => 10,
+                'academy_id' => 5,
+                'student_id' => 39,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Educational Advisor Academy provides exceptional guidance with expert advisors, personalized support, and a comprehensive curriculum. Their user-friendly platform and tailored programs help students and professionals achieve their educational goals. The academy\'s commitment to student success and innovative approach make it a top choice for educational advancement.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:31:12',
+                'updated_at' => '2024-05-14 13:31:12',
+                'deleted_at' => NULL,
+            ),
+            10 => 
+            array (
+                'id' => 11,
+                'academy_id' => 3,
+                'student_id' => 39,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Cooper Huges Academy excels in providing comprehensive guidance for academic success. Their expert advisors offer personalized support, helping students navigate educational pathways effectively. The academy\'s user-friendly platform and practical resources make it a valuable asset for students seeking to enhance their academic achievements and career prospects.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:32:57',
+                'updated_at' => '2024-05-14 13:32:57',
+                'deleted_at' => NULL,
+            ),
+            11 => 
+            array (
+                'id' => 12,
+                'academy_id' => 3,
+                'student_id' => 23,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Cooper Hughes Academy provides exceptional courses for aspiring advisors. Expert instructors and a flexible, user-friendly platform ensure comprehensive learning. The academy\'s practical approach and current curriculum empower students with the skills and knowledge needed for success, making it a top choice for those pursuing a career in educational advising.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:33:51',
+                'updated_at' => '2024-05-14 13:33:51',
+                'deleted_at' => NULL,
+            ),
+            12 => 
+            array (
+                'id' => 13,
+                'academy_id' => 3,
+                'student_id' => 24,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'Cooper Hughes Academy provides comprehensive training for aspiring educational consultants. Expert-led courses, practical insights, and a flexible learning platform ensure participants gain valuable skills. The supportive community and up-to-date curriculum make it an excellent choice for those looking to excel in educational advisory roles.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:34:35',
+                'updated_at' => '2024-05-14 13:34:35',
+                'deleted_at' => NULL,
+            ),
+            13 => 
+            array (
+                'id' => 14,
+                'academy_id' => 1,
+                'student_id' => 24,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'John Lee Academy provides comprehensive training for aspiring educational consultants. Expert-led courses, practical insights, and a flexible learning platform ensure participants gain valuable skills. The supportive community and up-to-date curriculum make it an excellent choice for those looking to excel in educational advisory roles.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:34:59',
+                'updated_at' => '2024-05-14 13:34:59',
+                'deleted_at' => NULL,
+            ),
+            14 => 
+            array (
+                'id' => 15,
+                'academy_id' => 1,
+                'student_id' => 23,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'John Lee Academy excels in providing comprehensive training for aspiring educational consultants. With expert instructors and a flexible, user-friendly platform, it offers practical insights and current strategies. The supportive community and high-quality content make it a top choice for those looking to advance in educational advising.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:36:07',
+                'updated_at' => '2024-05-14 13:36:07',
+                'deleted_at' => NULL,
+            ),
+            15 => 
+            array (
+                'id' => 16,
+                'academy_id' => 1,
+                'student_id' => 39,
+                'rating' => 5.0,
+                'experience' => 5.0,
+                'communication' => 5.0,
+                'service' => 5.0,
+                'comment' => 'John Lee Academy provides comprehensive guidance for academic success. Their expert advisors offer personalized support, helping students navigate academic challenges and achieve their goals. With a focus on individualized attention and proven strategies, it\'s a valuable resource for students seeking to excel in their educational pursuits.',
+                'is_active' => 1,
+                'is_approved' => 0,
+                'is_featured' => 0,
+                'created_at' => '2024-05-14 13:37:17',
+                'updated_at' => '2024-05-14 13:37:17',
+                'deleted_at' => NULL,
+            ),
+        ));
+        
+        
+    }
+}

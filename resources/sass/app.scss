@@ -1,0 +1,31 @@
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+// @import '~bootstrap-icons/font/bootstrap-icons';
+//select2
+@import "~select2/dist/css/select2.css";
+@import "~vue3-carousel/dist/carousel.css";
+@import 'form-wizard-vue3/dist/form-wizard-vue3.css';
+@import "./base";
+@import "./loader";
+@import "./navbar";
+@import "./elements";
+@import "./components";
+@import "./forms";
+@import "./profile";
+@import "./settings";
+@import "./appointment";
+@import './account';
+
+// @import "./common";
+@import "./home";
+@import "./auth";
+
+@import "./chat";
+@import "./footer";
+
+@import './wallet'
