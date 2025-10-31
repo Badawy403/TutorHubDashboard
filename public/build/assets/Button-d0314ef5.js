@@ -1,0 +1,1 @@
+import{d as e,_ as o,o as s,b as n,l as p}from"./app-532c599c.js";const r=e({props:{type:{type:String,default:"submit"}}}),a=["type"];function c(t,d,l,u,_,f){return s(),n("button",{type:t.type,class:"btn btn-dark text-uppercase"},[p(t.$slots,"default")],8,a)}const m=o(r,[["render",c]]);export{m as B};

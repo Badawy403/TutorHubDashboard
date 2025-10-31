@@ -1,0 +1,1 @@
+import{d as o,_ as n,o as e,b as a,t,l,n as r}from"./app-532c599c.js";const p=o({props:["value","classes"]}),c={key:0},i={key:1};function d(s,_,f,u,m,$){return e(),a("label",{class:r(s.classes)},[s.value?(e(),a("span",c,t(s.value),1)):(e(),a("span",i,[l(s.$slots,"default")]))],2)}const b=n(p,[["render",d]]);export{b as L};

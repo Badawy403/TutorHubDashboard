@@ -1,0 +1,41 @@
+{
+    "name": "minuteoflaravel/laravel-audio-video-validator",
+    "description": "Laravel validator for video and audio files",
+    "keywords": [
+        "laravel",
+        "laravel-ffmpeg",
+        "ffmpeg",
+        "minuteoflaravel",
+        "media",
+        "media-validator"
+    ],
+    "homepage": "https://github.com/minuteoflaravel/laravel-audio-video-validator",
+    "require": {
+        "php": "^7.4|^8.0|^8.1",
+        "pbmedia/laravel-ffmpeg": "^7.0|^8.0"
+    },
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MinuteOfLaravel\\MediaValidator\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Minute Of Laravel",
+            "email": "contact@minuteoflaravel.com",
+            "homepage": "https://minuteoflaravel.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MinuteOfLaravel\\MediaValidator\\MediaValidatorServiceProvider"
+            ],
+            "aliases": {
+                "MediaValidator": "MinuteOfLaravel\\MediaValidator\\MediaValidator"
+            }
+        }
+    }
+}

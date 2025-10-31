@@ -1,0 +1,1788 @@
+{
+  "resources/js/images/common/avatar.png": {
+    "file": "assets/default_avatar_men-d09c637b.png",
+    "src": "resources/js/images/common/avatar.png"
+  },
+  "resources/js/images/icons/wallet.png": {
+    "file": "assets/wallet-918916f0.png",
+    "src": "resources/js/images/icons/wallet.png"
+  },
+  "resources/js/images/icons/calendar.png": {
+    "file": "assets/calendar-8cb9ef03.png",
+    "src": "resources/js/images/icons/calendar.png"
+  },
+  "resources/js/images/icons/User.png": {
+    "file": "assets/User-21cbf4b1.png",
+    "src": "resources/js/images/icons/User.png"
+  },
+  "resources/js/images/icons/payment.png": {
+    "file": "assets/payment-455f6a43.png",
+    "src": "resources/js/images/icons/payment.png"
+  },
+  "resources/js/images/icons/thankyou.png": {
+    "file": "assets/thankyou-c2612a75.png",
+    "src": "resources/js/images/icons/thankyou.png"
+  },
+  "resources/js/images/icons/is_premium.svg": {
+    "file": "assets/is_premium-74d29f20.svg",
+    "src": "resources/js/images/icons/is_premium.svg"
+  },
+  "resources/js/images/icons/loginbtnicon.png": {
+    "file": "assets/loginbtnicon-0089190a.png",
+    "src": "resources/js/images/icons/loginbtnicon.png"
+  },
+  "resources/js/images/common/image.png": {
+    "file": "assets/image-94cb5f9e.png",
+    "src": "resources/js/images/common/image.png"
+  },
+  "resources/js/images/icons/tutorhub.png": {
+    "file": "assets/tutorhub-77a8ef71.png",
+    "src": "resources/js/images/icons/tutorhub.png"
+  },
+  "resources/js/images/auth/login.png": {
+    "file": "assets/login-3047d951.png",
+    "src": "resources/js/images/auth/login.png"
+  },
+  "resources/js/images/auth/teacher.png": {
+    "file": "assets/teacher-7c9db762.png",
+    "src": "resources/js/images/auth/teacher.png"
+  },
+  "resources/js/images/icons/file.png": {
+    "file": "assets/file-b6eda324.png",
+    "src": "resources/js/images/icons/file.png"
+  },
+  "resources/js/images/icons/playstore.png": {
+    "file": "assets/playstore-bb8898aa.png",
+    "src": "resources/js/images/icons/playstore.png"
+  },
+  "resources/js/images/home/mobileimg.png": {
+    "file": "assets/mobileimg-f445253a.png",
+    "src": "resources/js/images/home/mobileimg.png"
+  },
+  "resources/js/images/home/hero-bg.png": {
+    "file": "assets/hero-bg-8763e4d1.png",
+    "src": "resources/js/images/home/hero-bg.png"
+  },
+  "resources/js/images/common/lock.png": {
+    "file": "assets/lock-8e89a8f6.png",
+    "src": "resources/js/images/common/lock.png"
+  },
+  "resources/js/images/chat-q.png": {
+    "file": "assets/chat-q-2c9dfb77.png",
+    "src": "resources/js/images/chat-q.png"
+  },
+  "resources/js/images/person.png": {
+    "file": "assets/person-337148b2.png",
+    "src": "resources/js/images/person.png"
+  },
+  "resources/js/images/arrow.png": {
+    "file": "assets/arrow-fbe093bd.png",
+    "src": "resources/js/images/arrow.png"
+  },
+  "resources/js/images/sale-services.png": {
+    "file": "assets/sale-services-2a3376b4.png",
+    "src": "resources/js/images/sale-services.png"
+  },
+  "resources/js/images/rating.png": {
+    "file": "assets/rating-279e4519.png",
+    "src": "resources/js/images/rating.png"
+  },
+  "resources/js/images/property-s.png": {
+    "file": "assets/property-s-003bcee4.png",
+    "src": "resources/js/images/property-s.png"
+  },
+  "resources/js/images/icons/self-service.png": {
+    "file": "assets/self-service-dcbd3b67.png",
+    "src": "resources/js/images/icons/self-service.png"
+  },
+  "resources/js/images/icons/exam.png": {
+    "file": "assets/exam-8badb159.png",
+    "src": "resources/js/images/icons/exam.png"
+  },
+  "resources/js/images/icons/income.png": {
+    "file": "assets/income-e8fb3bd1.png",
+    "src": "resources/js/images/icons/income.png"
+  },
+  "resources/js/images/common/error404.png": {
+    "file": "assets/error404-a81b4383.png",
+    "src": "resources/js/images/common/error404.png"
+  },
+  "resources/js/images/common/bg_profile.jpg": {
+    "file": "assets/bg_profile-d8b06198.jpg",
+    "src": "resources/js/images/common/bg_profile.jpg"
+  },
+  "resources/js/images/bg-img.jpg": {
+    "file": "assets/bg-img-34e456d2.jpg",
+    "src": "resources/js/images/bg-img.jpg"
+  },
+  "resources/js/images/common/footer.png": {
+    "file": "assets/footer-279c9dbf.png",
+    "src": "resources/js/images/common/footer.png"
+  },
+  "resources/js/images/common/course.png": {
+    "file": "assets/course-cbaf4065.png",
+    "src": "resources/js/images/common/course.png"
+  },
+  "resources/js/images/common/podcast.png": {
+    "file": "assets/podcast-c74d13a2.png",
+    "src": "resources/js/images/common/podcast.png"
+  },
+  "resources/js/images/common/media.png": {
+    "file": "assets/media-5f281d02.png",
+    "src": "resources/js/images/common/media.png"
+  },
+  "resources/js/images/home/logo.png": {
+    "file": "assets/logo-95463e77.png",
+    "src": "resources/js/images/home/logo.png"
+  },
+  "resources/js/images/icons/google.png": {
+    "file": "assets/google-94a48576.png",
+    "src": "resources/js/images/icons/google.png"
+  },
+  "resources/js/images/icons/facebook.png": {
+    "file": "assets/facebook-4f7e3281.png",
+    "src": "resources/js/images/icons/facebook.png"
+  },
+  "resources/js/images/icons/twitter.png": {
+    "file": "assets/twitter-32a7e2de.png",
+    "src": "resources/js/images/icons/twitter.png"
+  },
+  "resources/js/images/auth/student.png": {
+    "file": "assets/student-95dd27cb.png",
+    "src": "resources/js/images/auth/student.png"
+  },
+  "resources/js/images/auth/acadmy.png": {
+    "file": "assets/acadmy-af562868.png",
+    "src": "resources/js/images/auth/acadmy.png"
+  },
+  "resources/js/images/icons/like_1.svg": {
+    "file": "assets/like_1-f878c9f2.svg",
+    "src": "resources/js/images/icons/like_1.svg"
+  },
+  "resources/js/images/icons/school_1.svg": {
+    "file": "assets/school_1-2f4ad7a4.svg",
+    "src": "resources/js/images/icons/school_1.svg"
+  },
+  "resources/js/images/icons/event_1.svg": {
+    "file": "assets/event_1-e15d67a0.svg",
+    "src": "resources/js/images/icons/event_1.svg"
+  },
+  "resources/js/images/icons/student_1.svg": {
+    "file": "assets/student_1-cb89ea14.svg",
+    "src": "resources/js/images/icons/student_1.svg"
+  },
+  "resources/js/images/icons/teacher_1.svg": {
+    "file": "assets/teacher_1-7bf1e9ec.svg",
+    "src": "resources/js/images/icons/teacher_1.svg"
+  },
+  "resources/js/images/icons/nearest.svg": {
+    "file": "assets/nearest-92d071a2.svg",
+    "src": "resources/js/images/icons/nearest.svg"
+  },
+  "resources/js/images/icons/search.svg": {
+    "file": "assets/search-db906bff.svg",
+    "src": "resources/js/images/icons/search.svg"
+  },
+  "ProfileSection.css": {
+    "file": "assets/ProfileSection-92e09f60.css",
+    "src": "ProfileSection.css"
+  },
+  "AppLayout.css": {
+    "file": "assets/AppLayout-fc81ee3d.css",
+    "src": "AppLayout.css"
+  },
+  "resources/js/Pages/Academies/Profile.css": {
+    "file": "assets/Profile-08fcb3e0.css",
+    "src": "resources/js/Pages/Academies/Profile.css"
+  },
+  "Breadcrums.css": {
+    "file": "assets/Breadcrums-56850020.css",
+    "src": "Breadcrums.css"
+  },
+  "resources/js/Pages/Academies/BookAppointment.css": {
+    "file": "assets/BookAppointment-cbc14948.css",
+    "src": "resources/js/Pages/Academies/BookAppointment.css"
+  },
+  "AcademyAccount.css": {
+    "file": "assets/AcademyAccount-e7837204.css",
+    "src": "AcademyAccount.css"
+  },
+  "bg_profile.css": {
+    "file": "assets/bg_profile-303e06fa.css",
+    "src": "bg_profile.css"
+  },
+  "TeacherAccount.css": {
+    "file": "assets/TeacherAccount-d1bf09d3.css",
+    "src": "TeacherAccount.css"
+  },
+  "default.css": {
+    "file": "assets/default-29be68ac.css",
+    "src": "default.css"
+  },
+  "resources/js/Pages/ServiceLogs/Detail.css": {
+    "file": "assets/Detail-b08a27ad.css",
+    "src": "resources/js/Pages/ServiceLogs/Detail.css"
+  },
+  "resources/js/Pages/Services/BookService.css": {
+    "file": "assets/BookService-20785381.css",
+    "src": "resources/js/Pages/Services/BookService.css"
+  },
+  "resources/js/Pages/PricingPlan/Listing.css": {
+    "file": "assets/Listing-5ccd6ef3.css",
+    "src": "resources/js/Pages/PricingPlan/Listing.css"
+  },
+  "resources/js/Pages/Categories/Listing.css": {
+    "file": "assets/Listing-f8f1f8e6.css",
+    "src": "resources/js/Pages/Categories/Listing.css"
+  },
+  "resources/js/Pages/Home.css": {
+    "file": "assets/Home-1acd0ee3.css",
+    "src": "resources/js/Pages/Home.css"
+  },
+  "resources/js/Pages/Teachers/Profile.css": {
+    "file": "assets/Profile-818e20ce.css",
+    "src": "resources/js/Pages/Teachers/Profile.css"
+  },
+  "resources/js/Pages/Teachers/BookAppointment.css": {
+    "file": "assets/BookAppointment-f0651884.css",
+    "src": "resources/js/Pages/Teachers/BookAppointment.css"
+  },
+  "resources/js/Pages/AppointmentLogDetail.css": {
+    "file": "assets/AppointmentLogDetail-98c29b47.css",
+    "src": "resources/js/Pages/AppointmentLogDetail.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-8f9880f6.css",
+    "src": "resources/js/app.css"
+  },
+  "_ValidationErrors-b71c5ecd.js": {
+    "file": "assets/ValidationErrors-b71c5ecd.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/About.vue": {
+    "file": "assets/About-3fb54354.js",
+    "src": "resources/js/Pages/About.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_CalenderSkeleton-d03cdbc0.js": {
+    "file": "assets/CalenderSkeleton-d03cdbc0.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_default_avatar_men-3c7742fa.js": {
+    "file": "assets/default_avatar_men-3c7742fa.js",
+    "assets": [
+      "assets/default_avatar_men-d09c637b.png"
+    ]
+  },
+  "_thankyou-aba234d7.js": {
+    "file": "assets/thankyou-aba234d7.js",
+    "assets": [
+      "assets/wallet-918916f0.png",
+      "assets/User-21cbf4b1.png",
+      "assets/calendar-8cb9ef03.png",
+      "assets/payment-455f6a43.png",
+      "assets/thankyou-c2612a75.png"
+    ]
+  },
+  "_PageHeader-7b6923cd.js": {
+    "file": "assets/PageHeader-7b6923cd.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_carousel.es-1c5152e9.js": {
+    "file": "assets/carousel.es-1c5152e9.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_PaginationMixin-11bee913.js": {
+    "file": "assets/PaginationMixin-11bee913.js"
+  },
+  "_is_premium-3d2fa04d.js": {
+    "file": "assets/is_premium-3d2fa04d.js",
+    "assets": [
+      "assets/is_premium-74d29f20.svg"
+    ]
+  },
+  "_ArchiveCard-c848f336.js": {
+    "file": "assets/ArchiveCard-c848f336.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/course-cbaf4065.png"
+    ]
+  },
+  "_PostCard-3a5a22d4.js": {
+    "file": "assets/PostCard-3a5a22d4.js",
+    "imports": [
+      "resources/js/app.js",
+      "_image-3ef26202.js"
+    ]
+  },
+  "_AuthenticationCardLogo-1326c82a.js": {
+    "file": "assets/AuthenticationCardLogo-1326c82a.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/logo-95463e77.png"
+    ]
+  },
+  "_EventCard-56a119d5.js": {
+    "file": "assets/EventCard-56a119d5.js",
+    "imports": [
+      "resources/js/app.js",
+      "_default_avatar_men-3c7742fa.js"
+    ]
+  },
+  "_SpinnerLoader-a06919e4.js": {
+    "file": "assets/SpinnerLoader-a06919e4.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_RecordNotFound-51b6965a.js": {
+    "file": "assets/RecordNotFound-51b6965a.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/error404-a81b4383.png"
+    ]
+  },
+  "_SpotLightCardSkeleton-165ae8f0.js": {
+    "file": "assets/SpotLightCardSkeleton-165ae8f0.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Label-d621f60b.js": {
+    "file": "assets/Label-d621f60b.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Section-47994874.js": {
+    "file": "assets/Section-47994874.js",
+    "imports": [
+      "resources/js/app.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_is_premium-3d2fa04d.js"
+    ]
+  },
+  "_FeaturedAcademyTeacherSection-115532bd.js": {
+    "file": "assets/FeaturedAcademyTeacherSection-115532bd.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Section-47994874.js",
+      "_CardSkeleton-ab9d1efa.js",
+      "_carousel.es-1c5152e9.js"
+    ]
+  },
+  "_Button-d0314ef5.js": {
+    "file": "assets/Button-d0314ef5.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Input-e00d76ea.js": {
+    "file": "assets/Input-e00d76ea.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_BroadcastCard-aa080a51.js": {
+    "file": "assets/BroadcastCard-aa080a51.js",
+    "imports": [
+      "resources/js/app.js",
+      "_CardSkeleton-ab9d1efa.js"
+    ],
+    "assets": [
+      "assets/media-5f281d02.png"
+    ]
+  },
+  "_PodcastCard-6228f7f0.js": {
+    "file": "assets/PodcastCard-6228f7f0.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/podcast-c74d13a2.png"
+    ]
+  },
+  "resources/js/Pages/Academies/Listing.vue": {
+    "file": "assets/Listing-bbdcf80f.js",
+    "src": "resources/js/Pages/Academies/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_FeaturedAcademySection-0de80995.js",
+      "resources/js/app.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_carousel.es-1c5152e9.js",
+      "_is_premium-3d2fa04d.js",
+      "_RecordNotFound-51b6965a.js",
+      "_SpotLightCardSkeleton-165ae8f0.js",
+      "_Breadcrums-8b420da4.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_FeaturedAcademyTeacherSection-115532bd.js",
+      "_Section-47994874.js",
+      "_CardSkeleton-ab9d1efa.js"
+    ]
+  },
+  "_Checkbox-b8f82b5d.js": {
+    "file": "assets/Checkbox-b8f82b5d.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_avatar-3c7742fa.js": {
+    "file": "assets/avatar-3c7742fa.js",
+    "assets": [
+      "assets/default_avatar_men-d09c637b.png"
+    ]
+  },
+  "_TablePagination-f6ee08dc.js": {
+    "file": "assets/TablePagination-f6ee08dc.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_AcademyReviewCard-aaa6d32a.js": {
+    "file": "assets/AcademyReviewCard-aaa6d32a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_CardSkeleton-ab9d1efa.js": {
+    "file": "assets/CardSkeleton-ab9d1efa.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_image-3ef26202.js": {
+    "file": "assets/image-3ef26202.js",
+    "assets": [
+      "assets/image-94cb5f9e.png"
+    ]
+  },
+  "resources/js/Pages/Academies/Reviews.vue": {
+    "file": "assets/Reviews-69c5e85e.js",
+    "src": "resources/js/Pages/Academies/Reviews.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_AcademyReviewCard-aaa6d32a.js",
+      "_RecordNotFound-51b6965a.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_TableTHead-47781b85.js": {
+    "file": "assets/TableTHead-47781b85.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/AddFundBankAccount.vue": {
+    "file": "assets/AddFundBankAccount-eae0ff22.js",
+    "src": "resources/js/Pages/AddFundBankAccount.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_CalenderSkeleton-d03cdbc0.js",
+      "_carousel.es-1c5152e9.js"
+    ],
+    "assets": [
+      "assets/loginbtnicon-0089190a.png"
+    ]
+  },
+  "_FeaturedAcademySection-0de80995.js": {
+    "file": "assets/FeaturedAcademySection-0de80995.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_FeaturedAcademyTeacherSection-115532bd.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_carousel.es-1c5152e9.js",
+      "_Section-47994874.js"
+    ]
+  },
+  "_Modal-ab73aec4.js": {
+    "file": "assets/Modal-ab73aec4.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Account.vue": {
+    "file": "assets/Account-34591af2.js",
+    "src": "resources/js/Pages/Account.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_TeacherAccount-a07d4656.js",
+      "_AuthenticationCardLogo-1326c82a.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Checkbox-b8f82b5d.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "resources/js/app.js",
+      "_bg_profile-560a30b5.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_Breadcrums-8b420da4.js",
+      "_RecordNotFound-51b6965a.js",
+      "_AcademyAccount-eb383071.js",
+      "_Modal-ab73aec4.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_TableTHead-47781b85.js",
+      "_TablePagination-f6ee08dc.js",
+      "_PaginationMixin-11bee913.js"
+    ],
+    "css": [
+      "assets/default-29be68ac.css"
+    ]
+  },
+  "_SideTabsPageSkeleton-be70e70d.js": {
+    "file": "assets/SideTabsPageSkeleton-be70e70d.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_VueGoogleAutocomplete-7a1c7e24.js": {
+    "file": "assets/VueGoogleAutocomplete-7a1c7e24.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/AppointmentLogOld.vue": {
+    "file": "assets/AppointmentLogOld-0a112435.js",
+    "src": "resources/js/Pages/AppointmentLogOld.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js"
+    ]
+  },
+  "resources/js/Pages/Archives/Detail.vue": {
+    "file": "assets/Detail-064b8809.js",
+    "src": "resources/js/Pages/Archives/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_Breadcrums-8b420da4.js",
+      "_image-3ef26202.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/AppointmentLog.vue": {
+    "file": "assets/AppointmentLog-af8b4fa6.js",
+    "src": "resources/js/Pages/AppointmentLog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_TableTHead-47781b85.js",
+      "_TablePagination-f6ee08dc.js",
+      "_PaginationMixin-11bee913.js",
+      "_SideTabsPageSkeleton-be70e70d.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Modal-ab73aec4.js",
+      "_Breadcrums-8b420da4.js",
+      "_default_avatar_men-3c7742fa.js"
+    ]
+  },
+  "_GuestLayout-3144e63f.js": {
+    "file": "assets/GuestLayout-3144e63f.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.vue": {
+    "file": "assets/ForgotPassword-5b4e72aa.js",
+    "src": "resources/js/Pages/Auth/ForgotPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-3144e63f.js",
+      "_AppLayout-4ad18c55.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js"
+    ]
+  },
+  "resources/js/Pages/Archives/Listing.vue": {
+    "file": "assets/Listing-2a4724af.js",
+    "src": "resources/js/Pages/Archives/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_ArchiveCard-c848f336.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Breadcrums-8b420da4.js",
+      "_CardSkeleton-ab9d1efa.js"
+    ]
+  },
+  "_login-526054fe.js": {
+    "file": "assets/login-526054fe.js",
+    "assets": [
+      "assets/facebook-4f7e3281.png",
+      "assets/google-94a48576.png",
+      "assets/twitter-32a7e2de.png",
+      "assets/tutorhub-77a8ef71.png",
+      "assets/login-3047d951.png"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.vue": {
+    "file": "assets/VerifyEmail-78cf4d72.js",
+    "src": "resources/js/Pages/Auth/VerifyEmail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_PageHeader-7b6923cd.js",
+      "_AuthenticationCardLogo-1326c82a.js",
+      "_AppLayout-4ad18c55.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login-c6c9550e.js",
+    "src": "resources/js/Pages/Auth/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AuthenticationCardLogo-1326c82a.js",
+      "_AppLayout-4ad18c55.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Checkbox-b8f82b5d.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "resources/js/app.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_login-526054fe.js",
+      "_GuestLayout-3144e63f.js",
+      "_carousel.es-1c5152e9.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.vue": {
+    "file": "assets/ResetPassword-151d02f1.js",
+    "src": "resources/js/Pages/Auth/ResetPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-3144e63f.js",
+      "_AppLayout-4ad18c55.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js"
+    ]
+  },
+  "resources/js/Pages/Blogs/Detail.vue": {
+    "file": "assets/Detail-8ee37b34.js",
+    "src": "resources/js/Pages/Blogs/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_Breadcrums-8b420da4.js",
+      "_image-3ef26202.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.vue": {
+    "file": "assets/Register-32390414.js",
+    "src": "resources/js/Pages/Auth/Register.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_GuestLayout-3144e63f.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Checkbox-b8f82b5d.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "resources/js/app.js",
+      "_login-526054fe.js",
+      "_AppLayout-4ad18c55.js"
+    ],
+    "assets": [
+      "assets/teacher-7c9db762.png",
+      "assets/student-95dd27cb.png",
+      "assets/acadmy-af562868.png"
+    ]
+  },
+  "resources/js/Pages/BankAccounts.vue": {
+    "file": "assets/BankAccounts-9947f84a.js",
+    "src": "resources/js/Pages/BankAccounts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_CalenderSkeleton-d03cdbc0.js",
+      "_carousel.es-1c5152e9.js"
+    ]
+  },
+  "resources/js/Pages/Company/Terms.vue": {
+    "file": "assets/Terms-9c4667a6.js",
+    "src": "resources/js/Pages/Company/Terms.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Company/Cookies.vue": {
+    "file": "assets/Cookies-edf39820.js",
+    "src": "resources/js/Pages/Company/Cookies.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_CategoriesSkeleton-433fac24.js": {
+    "file": "assets/CategoriesSkeleton-433fac24.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Company/PrivacyPolicy.vue": {
+    "file": "assets/PrivacyPolicy-a26c697f.js",
+    "src": "resources/js/Pages/Company/PrivacyPolicy.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Donation.vue": {
+    "file": "assets/Donation-ad629360.js",
+    "src": "resources/js/Pages/Donation.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.vue": {
+    "file": "assets/Dashboard-023aef00.js",
+    "src": "resources/js/Pages/Dashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Broadcasts/Detail.vue": {
+    "file": "assets/Detail-1d9ab9ac.js",
+    "src": "resources/js/Pages/Broadcasts/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_Breadcrums-8b420da4.js",
+      "_image-3ef26202.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Contact.vue": {
+    "file": "assets/Contact-3d3802fd.js",
+    "src": "resources/js/Pages/Contact.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_ValidationErrors-b71c5ecd.js"
+    ],
+    "assets": [
+      "assets/file-b6eda324.png"
+    ]
+  },
+  "resources/js/Pages/Broadcasts/Listing.vue": {
+    "file": "assets/Listing-5fce96f3.js",
+    "src": "resources/js/Pages/Broadcasts/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_BroadcastCard-aa080a51.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Breadcrums-8b420da4.js",
+      "_CardSkeleton-ab9d1efa.js"
+    ]
+  },
+  "resources/js/Pages/Blogs/Listing.vue": {
+    "file": "assets/Listing-9e1f8634.js",
+    "src": "resources/js/Pages/Blogs/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_PostCard-3a5a22d4.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Breadcrums-8b420da4.js",
+      "_CardSkeleton-ab9d1efa.js",
+      "_image-3ef26202.js"
+    ]
+  },
+  "resources/js/Pages/CompanyPage.vue": {
+    "file": "assets/CompanyPage-f4998eea.js",
+    "src": "resources/js/Pages/CompanyPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Events/Listing.vue": {
+    "file": "assets/Listing-06ee4873.js",
+    "src": "resources/js/Pages/Events/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_FindEventBar-ecbc003f.js",
+      "_EventCard-56a119d5.js",
+      "resources/js/app.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Breadcrums-8b420da4.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js"
+    ]
+  },
+  "resources/js/Pages/Events/Detail.vue": {
+    "file": "assets/Detail-b9e9da3d.js",
+    "src": "resources/js/Pages/Events/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_FindEventBar-ecbc003f.js": {
+    "file": "assets/FindEventBar-ecbc003f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js"
+    ]
+  },
+  "resources/js/Pages/FailedPage.vue": {
+    "file": "assets/FailedPage-062bd876.js",
+    "src": "resources/js/Pages/FailedPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/HealYourSelf.vue": {
+    "file": "assets/HealYourSelf-284fadff.js",
+    "src": "resources/js/Pages/HealYourSelf.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Forum.vue": {
+    "file": "assets/Forum-65be6081.js",
+    "src": "resources/js/Pages/Forum.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/FAQ.vue": {
+    "file": "assets/FAQ-9ae5f3dc.js",
+    "src": "resources/js/Pages/FAQ.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_RecordNotFound-51b6965a.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/OurStory.vue": {
+    "file": "assets/OurStory-e52a675a.js",
+    "src": "resources/js/Pages/OurStory.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Podcasts/Detail.vue": {
+    "file": "assets/Detail-5cd03c3d.js",
+    "src": "resources/js/Pages/Podcasts/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_Breadcrums-8b420da4.js",
+      "_image-3ef26202.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Podcasts/Listing.vue": {
+    "file": "assets/Listing-08abb032.js",
+    "src": "resources/js/Pages/Podcasts/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_PodcastCard-6228f7f0.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Breadcrums-8b420da4.js",
+      "_CardSkeleton-ab9d1efa.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.vue": {
+    "file": "assets/DeleteUserForm-cc6978be.js",
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_DialogModal-7d18c21f.js",
+      "_DangerButton-f739495b.js",
+      "_Input-e00d76ea.js",
+      "_InputError-e3f6b666.js",
+      "_SecondaryButton-4d8c1e33.js",
+      "_Modal-ab73aec4.js"
+    ]
+  },
+  "_SecondaryButton-4d8c1e33.js": {
+    "file": "assets/SecondaryButton-4d8c1e33.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_DangerButton-f739495b.js": {
+    "file": "assets/DangerButton-f739495b.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/PricingPlan/Detail.vue": {
+    "file": "assets/Detail-dfbefee5.js",
+    "src": "resources/js/Pages/PricingPlan/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js"
+    ]
+  },
+  "_DialogModal-7d18c21f.js": {
+    "file": "assets/DialogModal-7d18c21f.js",
+    "imports": [
+      "_InputError-e3f6b666.js",
+      "resources/js/app.js",
+      "_Modal-ab73aec4.js"
+    ]
+  },
+  "_InputError-e3f6b666.js": {
+    "file": "assets/InputError-e3f6b666.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_ActionMessage-931a664e.js": {
+    "file": "assets/ActionMessage-931a664e.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue": {
+    "file": "assets/LogoutOtherBrowserSessionsForm-30ac9ed5.js",
+    "src": "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ActionMessage-931a664e.js",
+      "_DialogModal-7d18c21f.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_InputError-e3f6b666.js",
+      "_SecondaryButton-4d8c1e33.js",
+      "_Modal-ab73aec4.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue": {
+    "file": "assets/UpdatePasswordForm-8dc7929b.js",
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ActionMessage-931a664e.js",
+      "_Button-d0314ef5.js",
+      "_FormSection-b01c217d.js",
+      "_Input-e00d76ea.js",
+      "_InputError-e3f6b666.js",
+      "_Label-d621f60b.js"
+    ]
+  },
+  "_FeaturedTeacherSection-e4872fc7.js": {
+    "file": "assets/FeaturedTeacherSection-e4872fc7.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_is_premium-3d2fa04d.js",
+      "_SpotLightCardSkeleton-165ae8f0.js",
+      "_carousel.es-1c5152e9.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Section-47994874.js",
+      "_CategoriesSkeleton-433fac24.js"
+    ],
+    "css": [
+      "assets/default-29be68ac.css"
+    ],
+    "assets": [
+      "assets/nearest-92d071a2.svg",
+      "assets/search-db906bff.svg"
+    ]
+  },
+  "_FormSection-b01c217d.js": {
+    "file": "assets/FormSection-b01c217d.js",
+    "imports": [
+      "resources/js/app.js",
+      "_InputError-e3f6b666.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue": {
+    "file": "assets/TwoFactorAuthenticationForm-e9cda2ab.js",
+    "src": "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_DialogModal-7d18c21f.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_InputError-e3f6b666.js",
+      "_SecondaryButton-4d8c1e33.js",
+      "_DangerButton-f739495b.js",
+      "_Modal-ab73aec4.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue": {
+    "file": "assets/UpdateProfileInformationForm-349b3774.js",
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Button-d0314ef5.js",
+      "_FormSection-b01c217d.js",
+      "_Input-e00d76ea.js",
+      "_InputError-e3f6b666.js",
+      "_Label-d621f60b.js",
+      "_ActionMessage-931a664e.js",
+      "_SecondaryButton-4d8c1e33.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Show.vue": {
+    "file": "assets/Show-d00f226e.js",
+    "src": "resources/js/Pages/Profile/Show.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue",
+      "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "_DialogModal-7d18c21f.js",
+      "_InputError-e3f6b666.js",
+      "_Modal-ab73aec4.js",
+      "_DangerButton-f739495b.js",
+      "_Input-e00d76ea.js",
+      "_SecondaryButton-4d8c1e33.js",
+      "_ActionMessage-931a664e.js",
+      "_Button-d0314ef5.js",
+      "_FormSection-b01c217d.js",
+      "_Label-d621f60b.js"
+    ]
+  },
+  "_lock-f1fa0ef0.js": {
+    "file": "assets/lock-f1fa0ef0.js",
+    "assets": [
+      "assets/lock-8e89a8f6.png"
+    ]
+  },
+  "_arrow-cb48d06b.js": {
+    "file": "assets/arrow-cb48d06b.js",
+    "assets": [
+      "assets/sale-services-2a3376b4.png",
+      "assets/property-s-003bcee4.png",
+      "assets/arrow-fbe093bd.png"
+    ]
+  },
+  "resources/js/Pages/QuickbyService.vue": {
+    "file": "assets/QuickbyService-89e7c2a2.js",
+    "src": "resources/js/Pages/QuickbyService.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_carousel.es-1c5152e9.js",
+      "_AppLayout-4ad18c55.js",
+      "_avatar-3c7742fa.js",
+      "_lock-f1fa0ef0.js",
+      "_arrow-cb48d06b.js"
+    ],
+    "assets": [
+      "assets/person-337148b2.png",
+      "assets/chat-q-2c9dfb77.png",
+      "assets/rating-279e4519.png"
+    ]
+  },
+  "resources/js/Pages/Shop.vue": {
+    "file": "assets/Shop-c560dd3e.js",
+    "src": "resources/js/Pages/Shop.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Services/Detail.vue": {
+    "file": "assets/Detail-913ff5e3.js",
+    "src": "resources/js/Pages/Services/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_Breadcrums-8b420da4.js",
+      "_carousel.es-1c5152e9.js",
+      "resources/js/app.js",
+      "_avatar-3c7742fa.js",
+      "_arrow-cb48d06b.js"
+    ],
+    "assets": [
+      "assets/lock-8e89a8f6.png",
+      "assets/self-service-dcbd3b67.png",
+      "assets/exam-8badb159.png",
+      "assets/income-e8fb3bd1.png"
+    ]
+  },
+  "resources/js/Pages/Tags/Detail.vue": {
+    "file": "assets/Detail-3c08c19a.js",
+    "src": "resources/js/Pages/Tags/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_BroadcastCard-aa080a51.js",
+      "_PodcastCard-6228f7f0.js",
+      "_PostCard-3a5a22d4.js",
+      "_ArchiveCard-c848f336.js",
+      "_EventCard-56a119d5.js",
+      "_ProfileSection-142c83b1.js",
+      "resources/js/app.js",
+      "_CardSkeleton-ab9d1efa.js",
+      "_image-3ef26202.js",
+      "_default_avatar_men-3c7742fa.js"
+    ]
+  },
+  "resources/js/Pages/Services/Listing.vue": {
+    "file": "assets/Listing-225b24bd.js",
+    "src": "resources/js/Pages/Services/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_lock-f1fa0ef0.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Breadcrums-8b420da4.js",
+      "_SpotLightCardSkeleton-165ae8f0.js"
+    ]
+  },
+  "resources/js/Pages/Tags/Listing.vue": {
+    "file": "assets/Listing-5b7b1638.js",
+    "src": "resources/js/Pages/Tags/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_RecordNotFound-51b6965a.js"
+    ]
+  },
+  "resources/js/Pages/ServiceLogs/Index.vue": {
+    "file": "assets/Index-07ebe312.js",
+    "src": "resources/js/Pages/ServiceLogs/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_TableTHead-47781b85.js",
+      "_TablePagination-f6ee08dc.js",
+      "_PaginationMixin-11bee913.js",
+      "_SideTabsPageSkeleton-be70e70d.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Modal-ab73aec4.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_Breadcrums-8b420da4.js"
+    ]
+  },
+  "_TeacherReviewCard-33ec81d3.js": {
+    "file": "assets/TeacherReviewCard-33ec81d3.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/ThankYouPage.vue": {
+    "file": "assets/ThankYouPage-c646478e.js",
+    "src": "resources/js/Pages/ThankYouPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Teachers/Reviews.vue": {
+    "file": "assets/Reviews-fb3c3e1a.js",
+    "src": "resources/js/Pages/Teachers/Reviews.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_TeacherReviewCard-33ec81d3.js",
+      "_RecordNotFound-51b6965a.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Teachers/Listing.vue": {
+    "file": "assets/Listing-60dc6fc2.js",
+    "src": "resources/js/Pages/Teachers/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_FeaturedTeacherSection-e4872fc7.js",
+      "resources/js/app.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_is_premium-3d2fa04d.js",
+      "_SpotLightCardSkeleton-165ae8f0.js",
+      "_RecordNotFound-51b6965a.js",
+      "_Breadcrums-8b420da4.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_carousel.es-1c5152e9.js",
+      "_Section-47994874.js",
+      "_CategoriesSkeleton-433fac24.js"
+    ],
+    "css": [
+      "assets/default-29be68ac.css"
+    ]
+  },
+  "_ProfileSection-142c83b1.js": {
+    "file": "assets/ProfileSection-142c83b1.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/ProfileSection-92e09f60.css"
+    ]
+  },
+  "resources/js/Pages/Welcome.vue": {
+    "file": "assets/Welcome-a77142aa.js",
+    "src": "resources/js/Pages/Welcome.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Wallet.vue": {
+    "file": "assets/Wallet-e7877eae.js",
+    "src": "resources/js/Pages/Wallet.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_TablePagination-f6ee08dc.js",
+      "_carousel.es-1c5152e9.js",
+      "_Modal-ab73aec4.js"
+    ]
+  },
+  "_Breadcrums-8b420da4.js": {
+    "file": "assets/Breadcrums-8b420da4.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/Breadcrums-56850020.css"
+    ]
+  },
+  "resources/js/Pages/Academies/Profile.vue": {
+    "file": "assets/Profile-57d0fe7c.js",
+    "src": "resources/js/Pages/Academies/Profile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_AcademyAccount-eb383071.js",
+      "_BroadcastCard-aa080a51.js",
+      "_PodcastCard-6228f7f0.js",
+      "_PostCard-3a5a22d4.js",
+      "resources/js/app.js",
+      "_avatar-3c7742fa.js",
+      "_ArchiveCard-c848f336.js",
+      "_EventCard-56a119d5.js",
+      "_ProfileSection-142c83b1.js",
+      "_AcademyReviewCard-aaa6d32a.js",
+      "_Modal-ab73aec4.js",
+      "_carousel.es-1c5152e9.js",
+      "_FeaturedAcademyTeacherSection-115532bd.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_is_premium-3d2fa04d.js",
+      "_AuthenticationCardLogo-1326c82a.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Checkbox-b8f82b5d.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_bg_profile-560a30b5.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_TableTHead-47781b85.js",
+      "_TablePagination-f6ee08dc.js",
+      "_PaginationMixin-11bee913.js",
+      "_Breadcrums-8b420da4.js",
+      "_CardSkeleton-ab9d1efa.js",
+      "_image-3ef26202.js",
+      "_Section-47994874.js"
+    ],
+    "css": [
+      "assets/Profile-08fcb3e0.css",
+      "assets/default-29be68ac.css"
+    ]
+  },
+  "_AppLayout-4ad18c55.js": {
+    "file": "assets/AppLayout-4ad18c55.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/AppLayout-fc81ee3d.css"
+    ]
+  },
+  "resources/js/Pages/Academies/BookAppointment.vue": {
+    "file": "assets/BookAppointment-1bfbc963.js",
+    "src": "resources/js/Pages/Academies/BookAppointment.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_CalenderSkeleton-d03cdbc0.js",
+      "_carousel.es-1c5152e9.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_thankyou-aba234d7.js"
+    ],
+    "css": [
+      "assets/BookAppointment-cbc14948.css"
+    ]
+  },
+  "resources/js/Pages/PricingPlan/Listing.vue": {
+    "file": "assets/Listing-31c6ffde.js",
+    "src": "resources/js/Pages/PricingPlan/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/Listing-5ccd6ef3.css"
+    ]
+  },
+  "resources/js/Pages/Services/BookService.vue": {
+    "file": "assets/BookService-8c77557a.js",
+    "src": "resources/js/Pages/Services/BookService.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_CalenderSkeleton-d03cdbc0.js",
+      "_carousel.es-1c5152e9.js"
+    ],
+    "css": [
+      "assets/BookService-20785381.css"
+    ]
+  },
+  "resources/js/Pages/Categories/Listing.vue": {
+    "file": "assets/Listing-051e19c7.js",
+    "src": "resources/js/Pages/Categories/Listing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "resources/js/app.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_CategoriesSkeleton-433fac24.js",
+      "_Breadcrums-8b420da4.js"
+    ],
+    "css": [
+      "assets/Listing-f8f1f8e6.css",
+      "assets/default-29be68ac.css"
+    ]
+  },
+  "resources/js/Pages/ServiceLogs/Detail.vue": {
+    "file": "assets/Detail-2f5fa5a5.js",
+    "src": "resources/js/Pages/ServiceLogs/Detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_Breadcrums-8b420da4.js",
+      "_Modal-ab73aec4.js"
+    ],
+    "css": [
+      "assets/Detail-b08a27ad.css"
+    ]
+  },
+  "resources/js/Pages/Teachers/BookAppointment.vue": {
+    "file": "assets/BookAppointment-57097744.js",
+    "src": "resources/js/Pages/Teachers/BookAppointment.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_CalenderSkeleton-d03cdbc0.js",
+      "_carousel.es-1c5152e9.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_thankyou-aba234d7.js"
+    ],
+    "css": [
+      "assets/BookAppointment-f0651884.css"
+    ]
+  },
+  "resources/js/Pages/Home.vue": {
+    "file": "assets/Home-77c1603f.js",
+    "src": "resources/js/Pages/Home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_Modal-ab73aec4.js",
+      "_FeaturedTeacherSection-e4872fc7.js",
+      "_FeaturedAcademySection-0de80995.js",
+      "_FindEventBar-ecbc003f.js",
+      "resources/js/app.js",
+      "_Section-47994874.js",
+      "_EventCard-56a119d5.js",
+      "_carousel.es-1c5152e9.js",
+      "_CardSkeleton-ab9d1efa.js",
+      "_RecordNotFound-51b6965a.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_CategoriesSkeleton-433fac24.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_is_premium-3d2fa04d.js",
+      "_SpotLightCardSkeleton-165ae8f0.js",
+      "_FeaturedAcademyTeacherSection-115532bd.js"
+    ],
+    "css": [
+      "assets/Home-1acd0ee3.css",
+      "assets/default-29be68ac.css"
+    ],
+    "assets": [
+      "assets/student_1-cb89ea14.svg",
+      "assets/teacher_1-7bf1e9ec.svg",
+      "assets/like_1-f878c9f2.svg",
+      "assets/school_1-2f4ad7a4.svg",
+      "assets/event_1-e15d67a0.svg",
+      "assets/hero-bg-8763e4d1.png",
+      "assets/playstore-bb8898aa.png",
+      "assets/mobileimg-f445253a.png"
+    ]
+  },
+  "resources/js/Pages/Teachers/Profile.vue": {
+    "file": "assets/Profile-85830fcd.js",
+    "src": "resources/js/Pages/Teachers/Profile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "_TeacherAccount-a07d4656.js",
+      "_BroadcastCard-aa080a51.js",
+      "_PodcastCard-6228f7f0.js",
+      "_PostCard-3a5a22d4.js",
+      "resources/js/app.js",
+      "_avatar-3c7742fa.js",
+      "_ArchiveCard-c848f336.js",
+      "_EventCard-56a119d5.js",
+      "_ProfileSection-142c83b1.js",
+      "_TeacherReviewCard-33ec81d3.js",
+      "_Modal-ab73aec4.js",
+      "_carousel.es-1c5152e9.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_is_premium-3d2fa04d.js",
+      "_AuthenticationCardLogo-1326c82a.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Checkbox-b8f82b5d.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_bg_profile-560a30b5.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_TableTHead-47781b85.js",
+      "_TablePagination-f6ee08dc.js",
+      "_PaginationMixin-11bee913.js",
+      "_Breadcrums-8b420da4.js",
+      "_CardSkeleton-ab9d1efa.js",
+      "_image-3ef26202.js"
+    ],
+    "css": [
+      "assets/Profile-818e20ce.css"
+    ]
+  },
+  "_AcademyAccount-eb383071.js": {
+    "file": "assets/AcademyAccount-eb383071.js",
+    "imports": [
+      "_AuthenticationCardLogo-1326c82a.js",
+      "_AppLayout-4ad18c55.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Checkbox-b8f82b5d.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "resources/js/app.js",
+      "_bg_profile-560a30b5.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_default_avatar_men-3c7742fa.js",
+      "_Modal-ab73aec4.js",
+      "_TableTHead-47781b85.js",
+      "_TablePagination-f6ee08dc.js",
+      "_PaginationMixin-11bee913.js",
+      "_Breadcrums-8b420da4.js"
+    ],
+    "css": [
+      "assets/AcademyAccount-e7837204.css",
+      "assets/default-29be68ac.css"
+    ]
+  },
+  "_TeacherAccount-a07d4656.js": {
+    "file": "assets/TeacherAccount-a07d4656.js",
+    "imports": [
+      "_AuthenticationCardLogo-1326c82a.js",
+      "_AppLayout-4ad18c55.js",
+      "_Button-d0314ef5.js",
+      "_Input-e00d76ea.js",
+      "_Checkbox-b8f82b5d.js",
+      "_Label-d621f60b.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "resources/js/app.js",
+      "_bg_profile-560a30b5.js",
+      "_SpinnerLoader-a06919e4.js",
+      "_Modal-ab73aec4.js",
+      "_VueGoogleAutocomplete-7a1c7e24.js",
+      "_TableTHead-47781b85.js",
+      "_TablePagination-f6ee08dc.js",
+      "_PaginationMixin-11bee913.js",
+      "_Breadcrums-8b420da4.js"
+    ],
+    "css": [
+      "assets/TeacherAccount-d1bf09d3.css"
+    ]
+  },
+  "_bg_profile-560a30b5.js": {
+    "file": "assets/bg_profile-560a30b5.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/bg_profile-303e06fa.css"
+    ],
+    "assets": [
+      "assets/bg_profile-d8b06198.jpg"
+    ]
+  },
+  "resources/js/Pages/AppointmentLogDetail.vue": {
+    "file": "assets/AppointmentLogDetail-ba703535.js",
+    "src": "resources/js/Pages/AppointmentLogDetail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppLayout-4ad18c55.js",
+      "_PageHeader-7b6923cd.js",
+      "resources/js/app.js",
+      "_ValidationErrors-b71c5ecd.js",
+      "_Breadcrums-8b420da4.js"
+    ],
+    "css": [
+      "assets/AppointmentLogDetail-98c29b47.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-532c599c.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/About.vue",
+      "resources/js/Pages/Academies/BookAppointment.vue",
+      "resources/js/Pages/Academies/Listing.vue",
+      "resources/js/Pages/Academies/Profile.vue",
+      "resources/js/Pages/Academies/Reviews.vue",
+      "resources/js/Pages/Account.vue",
+      "resources/js/Pages/AddFundBankAccount.vue",
+      "resources/js/Pages/AppointmentLog.vue",
+      "resources/js/Pages/AppointmentLogDetail.vue",
+      "resources/js/Pages/AppointmentLogOld.vue",
+      "resources/js/Pages/Archives/Detail.vue",
+      "resources/js/Pages/Archives/Listing.vue",
+      "resources/js/Pages/Auth/ForgotPassword.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Auth/Register.vue",
+      "resources/js/Pages/Auth/ResetPassword.vue",
+      "resources/js/Pages/Auth/VerifyEmail.vue",
+      "resources/js/Pages/BankAccounts.vue",
+      "resources/js/Pages/Blogs/Detail.vue",
+      "resources/js/Pages/Blogs/Listing.vue",
+      "resources/js/Pages/Broadcasts/Detail.vue",
+      "resources/js/Pages/Broadcasts/Listing.vue",
+      "resources/js/Pages/Categories/Listing.vue",
+      "resources/js/Pages/Company/Cookies.vue",
+      "resources/js/Pages/Company/PrivacyPolicy.vue",
+      "resources/js/Pages/Company/Terms.vue",
+      "resources/js/Pages/CompanyPage.vue",
+      "resources/js/Pages/Contact.vue",
+      "resources/js/Pages/Dashboard.vue",
+      "resources/js/Pages/Donation.vue",
+      "resources/js/Pages/Events/Detail.vue",
+      "resources/js/Pages/Events/Listing.vue",
+      "resources/js/Pages/FAQ.vue",
+      "resources/js/Pages/FailedPage.vue",
+      "resources/js/Pages/Forum.vue",
+      "resources/js/Pages/HealYourSelf.vue",
+      "resources/js/Pages/Home.vue",
+      "resources/js/Pages/OurStory.vue",
+      "resources/js/Pages/Podcasts/Detail.vue",
+      "resources/js/Pages/Podcasts/Listing.vue",
+      "resources/js/Pages/PricingPlan/Detail.vue",
+      "resources/js/Pages/PricingPlan/Listing.vue",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+      "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue",
+      "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "resources/js/Pages/Profile/Show.vue",
+      "resources/js/Pages/QuickbyService.vue",
+      "resources/js/Pages/ServiceLogs/Detail.vue",
+      "resources/js/Pages/ServiceLogs/Index.vue",
+      "resources/js/Pages/Services/BookService.vue",
+      "resources/js/Pages/Services/Detail.vue",
+      "resources/js/Pages/Services/Listing.vue",
+      "resources/js/Pages/Shop.vue",
+      "resources/js/Pages/Tags/Detail.vue",
+      "resources/js/Pages/Tags/Listing.vue",
+      "resources/js/Pages/Teachers/BookAppointment.vue",
+      "resources/js/Pages/Teachers/Listing.vue",
+      "resources/js/Pages/Teachers/Profile.vue",
+      "resources/js/Pages/Teachers/Reviews.vue",
+      "resources/js/Pages/ThankYouPage.vue",
+      "resources/js/Pages/Wallet.vue",
+      "resources/js/Pages/Welcome.vue"
+    ],
+    "css": [
+      "assets/app-8f9880f6.css"
+    ],
+    "assets": [
+      "assets/bg_profile-d8b06198.jpg",
+      "assets/bg-img-34e456d2.jpg",
+      "assets/footer-279c9dbf.png"
+    ]
+  },
+  "resources/js/images/account/default_avatar_men.png": {
+    "file": "assets/default_avatar_men-d09c637b.png",
+    "src": "resources/js/images/common/avatar.png"
+  },
+  "resources/js/images/lock.png": {
+    "file": "assets/lock-8e89a8f6.png",
+    "src": "resources/js/images/common/lock.png"
+  }
+}

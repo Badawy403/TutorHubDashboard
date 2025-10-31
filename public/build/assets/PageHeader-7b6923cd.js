@@ -1,0 +1,1 @@
+import{d as o,_ as t,o as a,b as n,a as e,l as c}from"./app-532c599c.js";const d=o({props:[]}),r={class:"page-heading d-flex py-3"},i={class:"container"},l={class:"display-1 text-white"};function p(s,_,f,h,m,u){return a(),n("div",null,[e("div",r,[e("div",i,[e("h1",l,[c(s.$slots,"default")])])])])}const x=t(d,[["render",p]]);export{x as P};
