@@ -18,5 +18,5 @@ yarn-error.log
 /.vscode
 /.DS_Store
 /public/.DS_Store
-/public/files/
-/public/images
+# /public/files/
+# /public/images
