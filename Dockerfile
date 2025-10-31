@@ -1,36 +1,32 @@
-# استخدم PHP + Apache لتشغيل Laravel
 FROM php:8.2-apache
 
-# تثبيت التبعيات المطلوبة
+# تثبيت الامتدادات المطلوبة للـ Laravel
 RUN apt-get update && apt-get install -y \
-    git \
-    unzip \
-    libpng-dev \
-    libjpeg-dev \
-    libfreetype6-dev \
-    libzip-dev \
-    zip \
-    && docker-php-ext-configure gd --with-freetype --with-jpeg \
-    && docker-php-ext-install gd pdo pdo_mysql zip
+    git unzip libzip-dev libpng-dev libonig-dev libxml2-dev \
+    && docker-php-ext-install pdo_mysql mbstring exif pcntl bcmath gd zip
 
-# ضبط مجلد العمل
-WORKDIR /var/www/html
-
-# نسخ كل ملفات المشروع
-COPY . .
-
-# تعيين صلاحيات التخزين والتخزين المؤقت
-RUN chmod -R 777 storage bootstrap/cache
-
-# تفعيل Rewrite في Apache (مهم للـ routes)
+# تفعيل mod_rewrite
 RUN a2enmod rewrite
-RUN echo '<Directory /var/www/html>\n\
+
+# نسخ ملفات المشروع
+COPY . /var/www/html
+
+# تعديل DocumentRoot ليشير إلى مجلد public الخاص بـ Laravel
+RUN sed -i 's|DocumentRoot /var/www/html|DocumentRoot /var/www/html/public|g' /etc/apache2/sites-available/000-default.conf
+
+# إعداد الصلاحيات
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html/storage /var/www/html/bootstrap/cache
+
+# إضافة إعدادات Laravel المخصصة
+RUN echo "<Directory /var/www/html/public>\n\
     AllowOverride All\n\
-</Directory>' > /etc/apache2/conf-available/laravel.conf \
+    Require all granted\n\
+</Directory>" > /etc/apache2/conf-available/laravel.conf \
     && a2enconf laravel
 
-# فتح المنفذ
+WORKDIR /var/www/html
+
 EXPOSE 80
 
-# أمر التشغيل
 CMD ["apache2-foreground"]
